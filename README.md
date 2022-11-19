@@ -1,10 +1,11 @@
 #
-<h1 align="center">Hello There !  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
+<img src = "https://github.com/ivasuy/ivasuy/blob/main/Banner.gif" />
+<h1 align="center">Hey There !  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
          alt="Waving hand animated gif"
          height="45"
          width="45" /></h1>
-<h3><b><samp>About Me</samp></b></h3>
-<h3 align="center">My Name is <a href="https://www.linkedin.com/in/ivasuy/">VASU YADAV</a> & I am a 3<sup>rd</sup> year undergraduate pursuing my B.Tech in Information Technology from Jaypee University of Information Technology.</h3><br>
+<h3><b>🙋‍♂️About Me:</b></h3>
+My Name is <a href="https://www.linkedin.com/in/ivasuy/">VASU YADAV</a> and I am a <b>3<sup>rd</sup> year</b> undergraduate pursuing my <b>B.Tech</b> in <b>Information Technology</b> from <b>Jaypee University of Information Technology</b>.<br>
 
 - ⚡  I possess a keen interest in **Problem-Solving** & **Web Development**.
 
@@ -27,7 +28,7 @@
 
 
 ##
-<h3 align="left">🧷Connect with me: </h3>
+<h3 align="left">🧷Connect with Me: </h3>
 <p align="left">
 
 <a href="https://twitter.com/ivasuyadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ivasuyadav" height="30" width="40" /></a>
@@ -57,7 +58,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ##
-<h3><b><samp>🛠Tools and Platform</samp></b></h3>
+<h3><b>🛠Tools and Platform</b></h3>
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
