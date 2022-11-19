@@ -13,7 +13,7 @@ My Name is <a href="https://www.linkedin.com/in/ivasuy/">VASU YADAV</a> and I am
 
 - 💻  I'm an **Open Source** and **Tech Enthusiast**.
 
-- 🤝 I’m looking forward to collaborate on more projects that can increase my knowledge base and get me more experience in working in the field.
+- 🤝 I’m looking forward to collaborate on projects that can increase my knowledge.
 
 - 💬 So let’s have a coffee & code?
 
