@@ -5,7 +5,7 @@
          width="25" /></h1>
 <h3><b>🙋‍♂️About Me:</b></h3>
 
-I'm a passionate **Full Stack Developer** with expertise in **Spring Boot** and **React**. My journey in technology is driven by a love for **Problem-Solving** and **Web Development**.
+I'm a passionate **Full Stack Developer** with expertise in **Spring Boot** and **React**. My journey in technology is driven by a love for **Problem-Solving**.
 
 - 🧑🏻‍💻 **Software Engineer** @ Bharat Mandi
 - 💻 Specializing in **Full Stack Development**
