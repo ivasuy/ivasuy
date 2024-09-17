@@ -1,12 +1,10 @@
 #
 <img src = "https://github.com/ivasuy/ivasuy/blob/main/Banner.gif" />
-<h1 align="center">Hey There !  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
+<h1 align="center">Hey There! I'm <a href="https://www.linkedin.com/in/ivasuy/">VASU YADAV</a>. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
          alt="Waving hand animated gif"
          height="45"
          width="45" /></h1>
-#
 <h3><b>🙋‍♂️About Me:</b></h3>
-I'm <a href="https://www.linkedin.com/in/ivasuy/">VASU YADAV</a>. 
 
 I'm a passionate **Full Stack Developer** with expertise in **Java Spring Boot** and **React**. My journey in technology is driven by a love for **Problem-Solving** and **Web Development**.
 
