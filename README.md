@@ -5,8 +5,7 @@
          height="45"
          width="45" /></h1>
 <h3><b>🙋‍♂️About Me:</b></h3>
-# Hi, I'm [VASU YADAV](https://www.linkedin.com/in/ivasuy/) 👋
-
+Hi, I'm <a href="https://www.linkedin.com/in/ivasuy/">VASU YADAV </a>
 I'm a passionate **Full Stack Developer** with expertise in **Java Spring Boot** and **React**. My journey in technology is driven by a love for **Problem-Solving** and **Web Development**.
 
 - 🧑🏻‍💻 **Software Engineer** at Bharat Mandi
