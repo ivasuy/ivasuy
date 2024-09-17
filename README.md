@@ -5,17 +5,12 @@
          height="45"
          width="45" /></h1>
 <h3><b>🙋‍♂️About Me:</b></h3>
-My Name is <a href="https://www.linkedin.com/in/ivasuy/">VASU YADAV</a> and I am a <b>3<sup>rd</sup> year</b> undergraduate pursuing my <b>B.Tech</b> in <b>Information Technology</b> from <b>Jaypee University of Information Technology</b>.<br>
-
-- ⚡  I possess a keen interest in **Problem-Solving** & **Web Development**.
-
+My Name is <a href="https://www.linkedin.com/in/ivasuy/">VASU YADAV</a> and I'm a passionate **Full Stack Developer** with expertise in **Java Spring Boot** and **React**.
+- 🧑🏻‍💻 Software Engineer @ Bharat Mandi.
+- 💻 **Full Stack** Developer.
+- ⚡ I possess a keen interest in **Problem-Solving** & **Web Development**.
 - 🛠  I am an **Elastic Developer** and a **Quick Learner** of new tech stacks.
 
-- 💻  I'm an **Open Source** and **Tech Enthusiast**.
-
-- 🤝 I’m looking forward to collaborate on projects that can increase my knowledge.
-
-- 💬 So let’s have a coffee & code?
 
 <p align="center"> 
   Visitor count<br>
