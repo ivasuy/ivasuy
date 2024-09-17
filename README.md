@@ -5,12 +5,11 @@
          height="45"
          width="45" /></h1>
 <h3><b>🙋‍♂️About Me:</b></h3>
-Hi, I'm <a href="https://www.linkedin.com/in/ivasuy/">VASU YADAV </a>
-I'm a passionate **Full Stack Developer** with expertise in **Java Spring Boot** and **React**. My journey in technology is driven by a love for **Problem-Solving** and **Web Development**.
+I'm <a href="https://www.linkedin.com/in/ivasuy/">VASU YADAV </a>
+I'm a passionate <b>Full Stack Developer</b> with expertise in <b>Java Spring Boot</b> and <b>React</b>. My journey in technology is driven by a love for <b>Problem-Solving</b> and <b>Web Development</b>.
 
 - 🧑🏻‍💻 **Software Engineer** at Bharat Mandi
 - 💻 Specializing in **Full Stack Development**
-- ⚡ Keen interest in **Problem-Solving** & **Web Development**
 - 🛠  **Elastic Developer** and a **Quick Learner** of new tech stacks
 
 I'm always eager to explore new technologies and apply them to solve real-world problems. Let's connect and build something amazing together!
