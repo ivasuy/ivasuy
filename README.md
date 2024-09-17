@@ -4,6 +4,7 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" /></h1>
+#
 <h3><b>🙋‍♂️About Me:</b></h3>
 I'm <a href="https://www.linkedin.com/in/ivasuy/">VASU YADAV</a>. 
 
@@ -31,10 +32,10 @@ I'm always eager to explore new technologies and apply them to solve real-world 
 
 <a href="https://twitter.com/ivasuyadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ivasuyadav" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ivasuy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ivasuy" height="30" width="40" /></a>
+<a href="https://discord.gg/ivasu#5142" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ivasu#5142" height="30" width="40" /></a>
 <!--<a href="https://www.hackerrank.com/vasu7yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vasu7yadav" height="30" width="40" /></a>
 <a href="https://leetcode.com/201514/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/201514/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/vasu7yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/vasu7yadav/practice" height="30" width="40" /></a>-->
-<a href="https://discord.gg/ivasu#5142" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ivasu#5142" height="30" width="40" /></a>
 </p>
 
 ##
