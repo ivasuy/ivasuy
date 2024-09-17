@@ -1,4 +1,3 @@
-#
 <!--<img src = "https://github.com/ivasuy/ivasuy/blob/main/Banner.gif" />-->
 <h1 align="center">Hey There! I'm <a href="https://www.linkedin.com/in/ivasuy/">Vasu Yadav</a>. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
          alt="Waving hand animated gif"
