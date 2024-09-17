@@ -24,7 +24,7 @@ I'm always eager to explore new technologies and apply them to solve real-world 
 
 
 <!--##
-<h3 align="left">🧷Connect with Me: </h3>
+<h3 align="left">Connect with Me: </h3>
 <p align="left">
 
 <a href="https://twitter.com/ivasuyadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ivasuyadav" height="30" width="40" /></a>
