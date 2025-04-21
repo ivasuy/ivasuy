@@ -7,7 +7,7 @@
 
 I'm a passionate **Full Stack Developer** with expertise in **Spring Boot** and **React**. My journey in technology is driven by a love for **Problem-Solving**.
 
-- 🧑🏻‍💻 **Software Engineer** @ Bharat Mandi
+- 🧑🏻‍💻 **Software Engineer**
 - 💻 Specializing in **Full Stack Development**
 - 🛠 **Elastic Developer** and a **Quick Learner** of new tech stacks
 
