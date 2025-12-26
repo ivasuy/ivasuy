@@ -13,7 +13,7 @@
 
 <div align="left">
 
-I’m a software developer who likes building things that actually get used. I enjoy working end-to-end to understand problems properly and turn complex, real-world ideas into clean, usable tech. When I’m not coding, you’ll usually find me working on quick side projects, riding into the mountains on my bike, or traveling to places with good views and better code ❤️
+I’m a software developer who likes building things that actually get used. I enjoy working end-to-end to understand problems properly and turn complex, real-world ideas into clean, usable tech. When I’m not coding, you’ll usually find me working on quick side projects, riding into the mountains on my bike, or traveling to places with good views and better code
 
 </div>
 
