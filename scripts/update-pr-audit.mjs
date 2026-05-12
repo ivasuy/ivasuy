@@ -49,6 +49,8 @@ const prViewFields = [
   "body"
 ].join(",");
 
+const repoLangCache = new Map();
+
 main();
 
 function main() {
@@ -185,8 +187,6 @@ function normalizePr(item, repo, type) {
     commentsCount: numberOrZero(item.commentsCount)
   };
 }
-
-const repoLangCache = new Map();
 
 function repoLanguage(repo) {
   if (!repo) return "Other";
