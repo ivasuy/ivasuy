@@ -30,37 +30,6 @@ I’m a software developer who likes building things that actually get used. I e
 
 </div>
 
-<!-- PR-AUDIT:START -->
-<h3>PR Audit &amp; Open Work</h3>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/merged-11-2ea44f?style=flat-square" alt="merged: 11" /> <img src="https://img.shields.io/badge/open-4-f0883e?style=flat-square" alt="open: 4" /> <img src="https://img.shields.io/badge/repos-6-0969da?style=flat-square" alt="repos: 6" /> <img src="https://img.shields.io/badge/synced-2026--05--12-24292f?style=flat-square" alt="synced: 2026-05-12" />
-
-<img src="https://skillicons.dev/icons?i=js,ts,go,python,docker&perline=10" height="34" alt="Detected PR tech stack" />
-
-</div>
-
-<br>
-
-**Recently Merged**
-
-- [Agent-Field/SWE-AF#72](https://github.com/Agent-Field/SWE-AF/pull/72) Add Codex CLI runtime support · `2026-05-11` · 30 files
-- [Agent-Field/agentfield#549](https://github.com/Agent-Field/agentfield/pull/549) Feat/UI llm health widget 322 · `2026-05-07` · 11 files
-- [Agent-Field/agentfield#548](https://github.com/Agent-Field/agentfield/pull/548) Feat/UI error category 325 · `2026-05-07` · 15 files
-- [Agent-Field/agentfield#547](https://github.com/Agent-Field/agentfield/pull/547) Feat/UI queue concurrency status 323 · `2026-05-07` · 10 files
-- [Agent-Field/agentfield#546](https://github.com/Agent-Field/agentfield/pull/546) fix(sdk-python): count opencode turns from JSON step events · `2026-05-07` · 3 files
-- [ivasuy/SignalDesk#1](https://github.com/ivasuy/SignalDesk/pull/1) Feature/friends release · `2025-12-26` · 64 files
-<sub>+5 more in <a href="./PR_AUDIT.md">PR_AUDIT.md</a></sub>
-
-**Open PRs**
-
-- [entireio/cli#1149](https://github.com/entireio/cli/pull/1149) fix(settings): activate hooks for entire enable --local · `2026-05-08` · 2 files
-- [paperclipai/paperclip#5413](https://github.com/paperclipai/paperclip/pull/5413) fix(server): adopt stale checkout run ownership · `2026-05-07` · 5 files
-- [paperclipai/paperclip#5406](https://github.com/paperclipai/paperclip/pull/5406) docs: add npx registry workaround for onboard · `2026-05-07` · 2 files
-- [paperclipai/paperclip#5404](https://github.com/paperclipai/paperclip/pull/5404) fix(server): PATCH assignee wake via queueIssueAssignmentWakeup · `2026-05-07` · 4 files
-<!-- PR-AUDIT:END -->
-
 <div align="center">
 
 ### Languages & Frameworks
@@ -111,3 +80,33 @@ I’m a software developer who likes building things that actually get used. I e
 
 </div>
 
+<!-- PR-AUDIT:START -->
+<h3>PR Audit &amp; Open Work</h3>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/merged-11-2ea44f?style=flat-square" alt="merged: 11" /> <img src="https://img.shields.io/badge/open-4-f0883e?style=flat-square" alt="open: 4" /> <img src="https://img.shields.io/badge/repos-6-0969da?style=flat-square" alt="repos: 6" /> <img src="https://img.shields.io/badge/synced-2026--05--12-24292f?style=flat-square" alt="synced: 2026-05-12" />
+
+<img src="https://skillicons.dev/icons?i=js,ts,go,python,docker&perline=10" height="34" alt="Detected PR tech stack" />
+
+</div>
+
+<br>
+
+**Recently Merged**
+
+- [Agent-Field/SWE-AF#72](https://github.com/Agent-Field/SWE-AF/pull/72) Add Codex CLI runtime support · `2026-05-11` · 30 files
+- [Agent-Field/agentfield#549](https://github.com/Agent-Field/agentfield/pull/549) Feat/UI llm health widget 322 · `2026-05-07` · 11 files
+- [Agent-Field/agentfield#548](https://github.com/Agent-Field/agentfield/pull/548) Feat/UI error category 325 · `2026-05-07` · 15 files
+- [Agent-Field/agentfield#547](https://github.com/Agent-Field/agentfield/pull/547) Feat/UI queue concurrency status 323 · `2026-05-07` · 10 files
+- [Agent-Field/agentfield#546](https://github.com/Agent-Field/agentfield/pull/546) fix(sdk-python): count opencode turns from JSON step events · `2026-05-07` · 3 files
+- [ivasuy/SignalDesk#1](https://github.com/ivasuy/SignalDesk/pull/1) Feature/friends release · `2025-12-26` · 64 files
+<sub>+5 more in <a href="./PR_AUDIT.md">PR_AUDIT.md</a></sub>
+
+**Open PRs**
+
+- [entireio/cli#1149](https://github.com/entireio/cli/pull/1149) fix(settings): activate hooks for entire enable --local · `2026-05-08` · 2 files
+- [paperclipai/paperclip#5413](https://github.com/paperclipai/paperclip/pull/5413) fix(server): adopt stale checkout run ownership · `2026-05-07` · 5 files
+- [paperclipai/paperclip#5406](https://github.com/paperclipai/paperclip/pull/5406) docs: add npx registry workaround for onboard · `2026-05-07` · 2 files
+- [paperclipai/paperclip#5404](https://github.com/paperclipai/paperclip/pull/5404) fix(server): PATCH assignee wake via queueIssueAssignmentWakeup · `2026-05-07` · 4 files
+<!-- PR-AUDIT:END -->
