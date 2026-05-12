@@ -284,6 +284,9 @@ function countTech(prs) {
 function buildReadmeSection(audit) {
   const { merged, open, summary, generatedAt, ranges } = audit;
   const topTech = summary.topTech.map((t) => t.name).slice(0, 10);
+  const topProjects = countProjects([...merged, ...open])
+  .slice(0, 5)
+  .map((p) => p.repo);
 
   const badges = [
     shield("merged", summary.mergedCount, "2ea44f"),
@@ -313,6 +316,8 @@ function buildReadmeSection(audit) {
 <div align="center">
 
 ${badges}
+
+${projectBadges(topProjects)}
 
 ${techStrip}
 
@@ -447,6 +452,31 @@ function buildTechStrip(tech) {
   const icons = tech.map((t) => iconMap[t]).filter(Boolean).slice(0, 10);
   if (!icons.length) return "";
   return `<img src="https://skillicons.dev/icons?i=${icons.join(",")}&perline=10" height="34" alt="Detected PR tech stack" />`;
+}
+
+function countProjects(prs) {
+  const counts = {};
+
+  for (const pr of prs) {
+    if (!pr.repo) continue;
+    counts[pr.repo] = (counts[pr.repo] || 0) + 1;
+  }
+
+  return Object.entries(counts)
+    .sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]))
+    .map(([repo, count]) => ({ repo, count }));
+}
+
+function projectBadges(projects) {
+  if (!projects.length) return "";
+
+  return projects
+    .map((repo) => {
+      const label = "project";
+      const name = repo.replace("/", "／");
+      return `<img src="https://img.shields.io/badge/${shieldPart(label)}-${shieldPart(name)}-0d1117?style=flat-square" alt="${escapeHtml(repo)}" />`;
+    })
+    .join("\n");
 }
 
 function repoName(repo) {
