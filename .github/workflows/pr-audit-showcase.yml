@@ -1,0 +1,71 @@
+name: PR Audit Showcase
+
+on:
+  workflow_dispatch:
+    inputs:
+      merged_since:
+        description: "Merged PRs from this date. Example: 2024-05-12. Blank = last 730 days."
+        required: false
+      open_since:
+        description: "Open PRs from this date. Example: 2026-02-11. Blank = last 90 days."
+        required: false
+      open_filter:
+        description: "Use updated for active PRs, created for only newly-created PRs."
+        required: false
+        default: "updated"
+
+  schedule:
+    # Daily at 03:17 UTC / 08:47 IST
+    - cron: "17 3 * * *"
+
+permissions:
+  contents: write
+  pull-requests: read
+
+concurrency:
+  group: pr-audit-showcase
+  cancel-in-progress: true
+
+jobs:
+  update-pr-audit:
+    runs-on: ubuntu-latest
+
+    env:
+      GITHUB_USER: ${{ github.repository_owner }}
+      MERGED_SINCE: ${{ inputs.merged_since }}
+      OPEN_SINCE: ${{ inputs.open_since }}
+      OPEN_FILTER: ${{ inputs.open_filter }}
+      MAX_FETCH: "1000"
+      ENRICH_LIMIT: "250"
+      SHOW_MERGED: "6"
+      SHOW_OPEN: "6"
+
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v5
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: "24"
+
+      - name: Generate PR audit
+        env:
+          DEFAULT_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PR_AUDIT_TOKEN: ${{ secrets.PR_AUDIT_TOKEN }}
+        run: |
+          export GH_TOKEN="${PR_AUDIT_TOKEN:-$DEFAULT_GITHUB_TOKEN}"
+          node scripts/update-pr-audit.mjs
+
+      - name: Commit generated audit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git add README.md PR_AUDIT.md data/pr-audit.json
+            git commit -m "chore: update PR audit showcase"
+            git push
+          else
+            echo "No changes to commit."
+          fi
