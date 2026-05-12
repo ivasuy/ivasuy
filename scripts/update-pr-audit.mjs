@@ -282,19 +282,15 @@ function countTech(prs) {
 }
 
 function buildReadmeSection(audit) {
-  const { merged, open, summary, generatedAt, ranges } = audit;
+  const { merged, open, summary, generatedAt } = audit;
   const topTech = summary.topTech.map((t) => t.name).slice(0, 10);
-  const topProjects = countProjects([...merged, ...open])
-  .slice(0, 5)
-  .map((p) => p.repo);
 
-  const badges = [
-    shield("merged", summary.mergedCount, "2ea44f"),
-    shield("open", summary.openCount, "f0883e"),
-    shield("repos", summary.reposTouched, "0969da"),
-    shield("audit", "2y", "6f42c1"),
-    shield("sync", dateOnly(generatedAt), "24292f")
-  ].join("\n");
+  const summaryBadges = [
+    flatBadge("merged", summary.mergedCount, "2ea44f"),
+    flatBadge("open", summary.openCount, "f0883e"),
+    flatBadge("repos", summary.reposTouched, "0969da"),
+    flatBadge("synced", dateOnly(generatedAt), "24292f")
+  ].join(" ");
 
   const techStrip = buildTechStrip(topTech);
   const mergedList = markdownList(merged.slice(0, SHOW_MERGED), "merged");
@@ -302,36 +298,34 @@ function buildReadmeSection(audit) {
 
   const mergedMore =
     merged.length > SHOW_MERGED
-      ? `\n- +${merged.length - SHOW_MERGED} more merged PRs in [full audit](./PR_AUDIT.md).`
+      ? `\n<sub>+${merged.length - SHOW_MERGED} more in <a href="./PR_AUDIT.md">PR_AUDIT.md</a></sub>`
       : "";
 
   const openMore =
     open.length > SHOW_OPEN
-      ? `\n- +${open.length - SHOW_OPEN} more open PRs in [full audit](./PR_AUDIT.md).`
+      ? `\n<sub>+${open.length - SHOW_OPEN} more in <a href="./PR_AUDIT.md">PR_AUDIT.md</a></sub>`
       : "";
 
   return `
-<h3><b>PR Audit &amp; Open Work</b></h3>
+<h3>PR Audit &amp; Open Work</h3>
 
 <div align="center">
 
-${badges}
-
-${projectBadges(topProjects)}
+${summaryBadges}
 
 ${techStrip}
 
 </div>
 
-<sub>Auto-generated from PRs authored by <code>${escapeHtml(audit.user)}</code>. Merged PRs since <code>${ranges.mergedSince}</code>; open PRs ${ranges.openFilter} since <code>${ranges.openSince}</code>. Full log: <a href="./PR_AUDIT.md">PR_AUDIT.md</a> · Raw data: <a href="./data/pr-audit.json">data/pr-audit.json</a></sub>
+<br>
 
-<img src="https://img.shields.io/badge/Recently_Merged-Fixes-2ea44f?style=flat-square&logo=git-merge&logoColor=white" alt="Recently Merged Fixes" />
+**Recently Merged**
 
-${mergedList || "_No merged PRs found in this range._"}${mergedMore}
+${mergedList || "_No merged PRs found._"}${mergedMore}
 
-<img src="https://img.shields.io/badge/Open_PRs-In_Progress-f0883e?style=flat-square&logo=github&logoColor=white" alt="Open PRs In Progress" />
+**Open PRs**
 
-${openList || "_No open PRs found in this range._"}${openMore}
+${openList || "_No open PRs found._"}${openMore}
 `.trim();
 }
 
@@ -372,10 +366,9 @@ function markdownList(items, type) {
   return items
     .map((p) => {
       const date = type === "merged" ? dateOnly(p.mergedAt || p.closedAt) : dateOnly(p.updatedAt);
-      const status = type === "open" && p.isDraft ? " · draft" : "";
+      const status = type === "open" && p.isDraft ? " · _draft_" : "";
       const changes = p.changedFiles !== null ? ` · ${p.changedFiles} files` : "";
-      const stack = p.stack?.length ? ` · ${p.stack.map((s) => `\`${s}\``).join(" ")}` : "";
-      return `- [${escapeMd(p.repo)}#${p.number}: ${escapeMd(p.title)}](${p.url}) · ${date}${changes}${status}${stack}`;
+      return `- [${escapeMd(p.repo)}#${p.number}](${p.url}) ${escapeMd(p.title)} · \`${date}\`${changes}${status}`;
     })
     .join("\n");
 }
@@ -422,6 +415,12 @@ function shield(label, message, color) {
   const safeLabel = shieldPart(label);
   const safeMessage = shieldPart(message);
   return `<img src="https://img.shields.io/badge/${safeLabel}-${safeMessage}-${color}?style=for-the-badge" alt="${escapeHtml(label)}: ${escapeHtml(String(message))}" />`;
+}
+
+function flatBadge(label, message, color) {
+  const safeLabel = shieldPart(label);
+  const safeMessage = shieldPart(message);
+  return `<img src="https://img.shields.io/badge/${safeLabel}-${safeMessage}-${color}?style=flat-square" alt="${escapeHtml(label)}: ${escapeHtml(String(message))}" />`;
 }
 
 function shieldPart(value) {
