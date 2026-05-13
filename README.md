@@ -85,7 +85,7 @@ I’m a software developer who likes building things that actually get used. I e
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/merged-11-2ea44f?style=flat-square" alt="merged: 11" /> <img src="https://img.shields.io/badge/open-4-f0883e?style=flat-square" alt="open: 4" /> <img src="https://img.shields.io/badge/repos-6-0969da?style=flat-square" alt="repos: 6" /> <img src="https://img.shields.io/badge/synced-2026--05--12-24292f?style=flat-square" alt="synced: 2026-05-12" />
+<img src="https://img.shields.io/badge/merged-11-2ea44f?style=flat-square" alt="merged: 11" /> <img src="https://img.shields.io/badge/open-4-f0883e?style=flat-square" alt="open: 4" /> <img src="https://img.shields.io/badge/repos-6-0969da?style=flat-square" alt="repos: 6" /> <img src="https://img.shields.io/badge/synced-2026--05--13-24292f?style=flat-square" alt="synced: 2026-05-13" />
 
 <img src="https://skillicons.dev/icons?i=js,ts,go,python,docker&perline=10" height="34" alt="Detected PR tech stack" />
 
