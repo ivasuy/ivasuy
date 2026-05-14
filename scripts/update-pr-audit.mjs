@@ -283,7 +283,6 @@ function countTech(prs) {
 
 function buildReadmeSection(audit) {
   const { merged, open, summary, generatedAt } = audit;
-  const topTech = summary.topTech.map((t) => t.name).slice(0, 10);
 
   const summaryBadges = [
     flatBadge("merged", summary.mergedCount, "2ea44f"),
@@ -292,7 +291,6 @@ function buildReadmeSection(audit) {
     flatBadge("synced", dateOnly(generatedAt), "24292f")
   ].join(" ");
 
-  const techStrip = buildTechStrip(topTech);
   const mergedList = markdownList(merged.slice(0, SHOW_MERGED), "merged");
   const openList = markdownList(open.slice(0, SHOW_OPEN), "open");
 
@@ -312,8 +310,6 @@ function buildReadmeSection(audit) {
 <div align="center">
 
 ${summaryBadges}
-
-${techStrip}
 
 </div>
 
