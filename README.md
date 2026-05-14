@@ -111,7 +111,3 @@ I’m a software developer who likes building things that actually get used. I e
 - [paperclipai/paperclip#5404](https://github.com/paperclipai/paperclip/pull/5404) fix(server): PATCH assignee wake via queueIssueAssignmentWakeup · `2026-05-07` · 4 files
 <!-- PR-AUDIT:END -->
 
-<!-- vibedeck:stats:start -->
-![VibeDeck Usage](./github-readme-banner.svg)
-<!-- vibedeck:stats:end -->
-
