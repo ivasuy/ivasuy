@@ -85,7 +85,7 @@ I’m a software developer who likes building things that actually get used. I e
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/merged-11-2ea44f?style=flat-square" alt="merged: 11" /> <img src="https://img.shields.io/badge/open-4-f0883e?style=flat-square" alt="open: 4" /> <img src="https://img.shields.io/badge/repos-6-0969da?style=flat-square" alt="repos: 6" /> <img src="https://img.shields.io/badge/synced-2026--05--13-24292f?style=flat-square" alt="synced: 2026-05-13" />
+<img src="https://img.shields.io/badge/merged-11-2ea44f?style=flat-square" alt="merged: 11" /> <img src="https://img.shields.io/badge/open-4-f0883e?style=flat-square" alt="open: 4" /> <img src="https://img.shields.io/badge/repos-6-0969da?style=flat-square" alt="repos: 6" /> <img src="https://img.shields.io/badge/synced-2026--05--14-24292f?style=flat-square" alt="synced: 2026-05-14" />
 
 </div>
 
@@ -103,10 +103,10 @@ I’m a software developer who likes building things that actually get used. I e
 
 **Open PRs**
 
+- [paperclipai/paperclip#5413](https://github.com/paperclipai/paperclip/pull/5413) fix(server): adopt stale checkout run ownership · `2026-05-14` · 5 files
+- [paperclipai/paperclip#5406](https://github.com/paperclipai/paperclip/pull/5406) docs: add npx registry workaround for onboard · `2026-05-14` · 2 files
+- [paperclipai/paperclip#5404](https://github.com/paperclipai/paperclip/pull/5404) fix(server): PATCH assignee wake via queueIssueAssignmentWakeup · `2026-05-14` · 4 files
 - [entireio/cli#1149](https://github.com/entireio/cli/pull/1149) fix(settings): activate hooks for entire enable --local · `2026-05-08` · 2 files
-- [paperclipai/paperclip#5413](https://github.com/paperclipai/paperclip/pull/5413) fix(server): adopt stale checkout run ownership · `2026-05-07` · 5 files
-- [paperclipai/paperclip#5406](https://github.com/paperclipai/paperclip/pull/5406) docs: add npx registry workaround for onboard · `2026-05-07` · 2 files
-- [paperclipai/paperclip#5404](https://github.com/paperclipai/paperclip/pull/5404) fix(server): PATCH assignee wake via queueIssueAssignmentWakeup · `2026-05-07` · 4 files
 <!-- PR-AUDIT:END -->
 
 <!-- vibedeck:stats:start -->

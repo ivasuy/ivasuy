@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-13T06:33:41.697Z",
+  "generatedAt": "2026-05-14T06:32:02.975Z",
   "user": "ivasuy",
   "ranges": {
-    "mergedSince": "2024-05-13",
-    "openSince": "2026-02-12",
+    "mergedSince": "2024-05-14",
+    "openSince": "2026-02-13",
     "openFilter": "updated"
   },
   "summary": {
@@ -338,6 +338,86 @@
   "open": [
     {
       "type": "open",
+      "repo": "paperclipai/paperclip",
+      "number": 5413,
+      "title": "fix(server): adopt stale checkout run ownership",
+      "url": "https://github.com/paperclipai/paperclip/pull/5413",
+      "state": "open",
+      "createdAt": "2026-05-07T09:08:41Z",
+      "updatedAt": "2026-05-14T05:17:10Z",
+      "closedAt": "0001-01-01T00:00:00Z",
+      "commentsCount": 1,
+      "mergedAt": "0001-01-01T00:00:00Z",
+      "changedFiles": 5,
+      "additions": 483,
+      "deletions": 89,
+      "reviewDecision": null,
+      "mergeStateStatus": "CLEAN",
+      "isDraft": false,
+      "labels": [],
+      "language": "TypeScript",
+      "summary": "## Thinking Path > - Paperclip is a control plane for autonomous AI-agent companies. > - Issue checkout ownership is part of the execution-control layer that prevents two runs from",
+      "stack": [
+        "TypeScript",
+        "OpenAI",
+        "REST API"
+      ]
+    },
+    {
+      "type": "open",
+      "repo": "paperclipai/paperclip",
+      "number": 5406,
+      "title": "docs: add npx registry workaround for onboard",
+      "url": "https://github.com/paperclipai/paperclip/pull/5406",
+      "state": "open",
+      "createdAt": "2026-05-07T06:25:15Z",
+      "updatedAt": "2026-05-14T05:17:07Z",
+      "closedAt": "0001-01-01T00:00:00Z",
+      "commentsCount": 1,
+      "mergedAt": "0001-01-01T00:00:00Z",
+      "changedFiles": 2,
+      "additions": 32,
+      "deletions": 0,
+      "reviewDecision": null,
+      "mergeStateStatus": "CLEAN",
+      "isDraft": false,
+      "labels": [],
+      "language": "TypeScript",
+      "summary": "## Thinking Path > - Paperclip orchestrates AI agents for zero-human companies, and the fastest first-run path is `npx paperclipai onboard --yes`. > - This change touches the first",
+      "stack": [
+        "TypeScript",
+        "OpenAI"
+      ]
+    },
+    {
+      "type": "open",
+      "repo": "paperclipai/paperclip",
+      "number": 5404,
+      "title": "fix(server): PATCH assignee wake via queueIssueAssignmentWakeup",
+      "url": "https://github.com/paperclipai/paperclip/pull/5404",
+      "state": "open",
+      "createdAt": "2026-05-07T05:02:22Z",
+      "updatedAt": "2026-05-14T05:17:06Z",
+      "closedAt": "0001-01-01T00:00:00Z",
+      "commentsCount": 1,
+      "mergedAt": "0001-01-01T00:00:00Z",
+      "changedFiles": 4,
+      "additions": 211,
+      "deletions": 28,
+      "reviewDecision": null,
+      "mergeStateStatus": "CLEAN",
+      "isDraft": false,
+      "labels": [],
+      "language": "TypeScript",
+      "summary": "## Thinking Path <!-- Required. Trace your reasoning from the top of the project down to this specific change. Start with what Paperclip is, then narrow through the subsystem, the ",
+      "stack": [
+        "TypeScript",
+        "OpenAI",
+        "REST API"
+      ]
+    },
+    {
+      "type": "open",
       "repo": "entireio/cli",
       "number": 1149,
       "title": "fix(settings): activate hooks for entire enable --local",
@@ -359,86 +439,6 @@
       "summary": "## Summary Fixes #1123. This PR switches `IsSetUpAndEnabled` to `IsSetUpAny`, which already exists and correctly checks for either file. `Load()` already merges both files and defa",
       "stack": [
         "Go"
-      ]
-    },
-    {
-      "type": "open",
-      "repo": "paperclipai/paperclip",
-      "number": 5413,
-      "title": "fix(server): adopt stale checkout run ownership",
-      "url": "https://github.com/paperclipai/paperclip/pull/5413",
-      "state": "open",
-      "createdAt": "2026-05-07T09:08:41Z",
-      "updatedAt": "2026-05-07T09:29:32Z",
-      "closedAt": "0001-01-01T00:00:00Z",
-      "commentsCount": 1,
-      "mergedAt": "0001-01-01T00:00:00Z",
-      "changedFiles": 5,
-      "additions": 483,
-      "deletions": 89,
-      "reviewDecision": null,
-      "mergeStateStatus": "UNKNOWN",
-      "isDraft": false,
-      "labels": [],
-      "language": "TypeScript",
-      "summary": "## Thinking Path > - Paperclip is a control plane for autonomous AI-agent companies. > - Issue checkout ownership is part of the execution-control layer that prevents two runs from",
-      "stack": [
-        "TypeScript",
-        "OpenAI",
-        "REST API"
-      ]
-    },
-    {
-      "type": "open",
-      "repo": "paperclipai/paperclip",
-      "number": 5406,
-      "title": "docs: add npx registry workaround for onboard",
-      "url": "https://github.com/paperclipai/paperclip/pull/5406",
-      "state": "open",
-      "createdAt": "2026-05-07T06:25:15Z",
-      "updatedAt": "2026-05-07T06:48:29Z",
-      "closedAt": "0001-01-01T00:00:00Z",
-      "commentsCount": 1,
-      "mergedAt": "0001-01-01T00:00:00Z",
-      "changedFiles": 2,
-      "additions": 32,
-      "deletions": 0,
-      "reviewDecision": null,
-      "mergeStateStatus": "UNKNOWN",
-      "isDraft": false,
-      "labels": [],
-      "language": "TypeScript",
-      "summary": "## Thinking Path > - Paperclip orchestrates AI agents for zero-human companies, and the fastest first-run path is `npx paperclipai onboard --yes`. > - This change touches the first",
-      "stack": [
-        "TypeScript",
-        "OpenAI"
-      ]
-    },
-    {
-      "type": "open",
-      "repo": "paperclipai/paperclip",
-      "number": 5404,
-      "title": "fix(server): PATCH assignee wake via queueIssueAssignmentWakeup",
-      "url": "https://github.com/paperclipai/paperclip/pull/5404",
-      "state": "open",
-      "createdAt": "2026-05-07T05:02:22Z",
-      "updatedAt": "2026-05-07T06:32:47Z",
-      "closedAt": "0001-01-01T00:00:00Z",
-      "commentsCount": 1,
-      "mergedAt": "0001-01-01T00:00:00Z",
-      "changedFiles": 4,
-      "additions": 211,
-      "deletions": 28,
-      "reviewDecision": null,
-      "mergeStateStatus": "UNKNOWN",
-      "isDraft": false,
-      "labels": [],
-      "language": "TypeScript",
-      "summary": "## Thinking Path <!-- Required. Trace your reasoning from the top of the project down to this specific change. Start with what Paperclip is, then narrow through the subsystem, the ",
-      "stack": [
-        "TypeScript",
-        "OpenAI",
-        "REST API"
       ]
     }
   ]

@@ -1,9 +1,9 @@
 # PR Audit
 
-Generated: `2026-05-13T06:33:41.697Z`  
+Generated: `2026-05-14T06:32:02.975Z`  
 Author: `ivasuy`  
-Merged PRs since: `2024-05-13`  
-Open PRs: `updated >= 2026-02-12`
+Merged PRs since: `2024-05-14`  
+Open PRs: `updated >= 2026-02-13`
 
 ## Summary
 
@@ -43,7 +43,7 @@ Open PRs: `updated >= 2026-02-12`
 
 | PR | Title | Date | Stack | Changes |
 |---|---|---|---|---|
+[paperclipai/paperclip#5413](https://github.com/paperclipai/paperclip/pull/5413) | fix(server): adopt stale checkout run ownership | 2026-05-14 | TypeScript, OpenAI, REST API | 5 files, +483/-89
+[paperclipai/paperclip#5406](https://github.com/paperclipai/paperclip/pull/5406) | docs: add npx registry workaround for onboard | 2026-05-14 | TypeScript, OpenAI | 2 files, +32/-0
+[paperclipai/paperclip#5404](https://github.com/paperclipai/paperclip/pull/5404) | fix(server): PATCH assignee wake via queueIssueAssignmentWakeup | 2026-05-14 | TypeScript, OpenAI, REST API | 4 files, +211/-28
 [entireio/cli#1149](https://github.com/entireio/cli/pull/1149) | fix(settings): activate hooks for entire enable --local | 2026-05-08 | Go | 2 files, +67/-2
-[paperclipai/paperclip#5413](https://github.com/paperclipai/paperclip/pull/5413) | fix(server): adopt stale checkout run ownership | 2026-05-07 | TypeScript, OpenAI, REST API | 5 files, +483/-89
-[paperclipai/paperclip#5406](https://github.com/paperclipai/paperclip/pull/5406) | docs: add npx registry workaround for onboard | 2026-05-07 | TypeScript, OpenAI | 2 files, +32/-0
-[paperclipai/paperclip#5404](https://github.com/paperclipai/paperclip/pull/5404) | fix(server): PATCH assignee wake via queueIssueAssignmentWakeup | 2026-05-07 | TypeScript, OpenAI, REST API | 4 files, +211/-28
