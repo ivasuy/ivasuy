@@ -110,6 +110,6 @@ I’m a software developer who likes building things that actually get used. I e
 <!-- PR-AUDIT:END -->
 
 <!-- vibedeck:stats:start -->
-![VibeDeck Usage](https://raw.githubusercontent.com/ivasuy/ivasuy/main/github-readme-banner.svg?v=2b1aa7cb8128c8ad874ca570098d9be37d0fc759)
+![VibeDeck Usage](https://raw.githubusercontent.com/ivasuy/ivasuy/main/github-readme-banner.svg?v=26d2f600fedb7fe1ac2f6d33403769a43ab4cc1e)
 <!-- vibedeck:stats:end -->
 
