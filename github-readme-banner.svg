@@ -55,7 +55,7 @@
 <text x="472" y="58" font-size="9" font-weight="600" fill="rgba(168,168,220,0.4)" font-family="system-ui,sans-serif" letter-spacing="1.4">TOP MODELS</text>
 
 <text x="24" y="91" font-size="21" font-weight="700" fill="url(#gtok)" font-family="'Courier New',Courier,monospace">4.36<tspan font-size="0.62em" dx="1" font-weight="600">B</tspan></text>
-<text x="24" y="114" font-size="11" fill="rgba(168,168,220,0.38)" font-family="system-ui,sans-serif">4,356,856,392 tokens total</text>
+<text x="24" y="114" font-size="11" fill="rgba(168,168,220,0.38)" font-family="system-ui,sans-serif">4,357,039,371 tokens total</text>
 
 <text x="268" y="96" font-size="27" font-weight="700" fill="url(#gcost)" font-family="'Courier New',Courier,monospace">$2,791</text>
 <text x="268" y="114" font-size="11" fill="rgba(168,168,220,0.38)" font-family="system-ui,sans-serif">all time spend</text>
