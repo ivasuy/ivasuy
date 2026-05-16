@@ -1,22 +1,22 @@
 # PR Audit
 
-Generated: `2026-05-15T06:42:59.801Z`  
+Generated: `2026-05-16T06:07:58.180Z`  
 Author: `ivasuy`  
-Merged PRs since: `2024-05-15`  
-Open PRs: `updated >= 2026-02-14`
+Merged PRs since: `2024-05-16`  
+Open PRs: `updated >= 2026-02-15`
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| Merged PRs | 11 |
+| Merged PRs | 12 |
 | Open PRs | 4 |
-| Repositories touched | 6 |
+| Repositories touched | 7 |
 
 ## Top tech stack detected from PRs
 
-- JavaScript: 9
-- REST API: 7
+- JavaScript: 10
+- REST API: 8
 - TypeScript: 7
 - Go: 6
 - OpenAI: 4
@@ -27,6 +27,7 @@ Open PRs: `updated >= 2026-02-14`
 
 | PR | Title | Date | Stack | Changes |
 |---|---|---|---|---|
+[ivasuy/VibeDeck#1](https://github.com/ivasuy/VibeDeck/pull/1) | feat: add local project README sync command and showcase updates | 2026-05-15 | JavaScript, REST API | 17 files, +1723/-107
 [Agent-Field/SWE-AF#72](https://github.com/Agent-Field/SWE-AF/pull/72) | Add Codex CLI runtime support | 2026-05-11 | Python, JavaScript, Docker, OpenAI, REST API | 30 files, +864/-59
 [Agent-Field/agentfield#549](https://github.com/Agent-Field/agentfield/pull/549) | Feat/UI llm health widget 322 | 2026-05-07 | Go, TypeScript, JavaScript, REST API | 11 files, +591/-12
 [Agent-Field/agentfield#548](https://github.com/Agent-Field/agentfield/pull/548) | Feat/UI error category 325 | 2026-05-07 | Go, TypeScript, JavaScript | 15 files, +385/-7

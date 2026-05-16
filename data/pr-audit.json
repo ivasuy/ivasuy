@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-05-15T06:42:59.801Z",
+  "generatedAt": "2026-05-16T06:07:58.180Z",
   "user": "ivasuy",
   "ranges": {
-    "mergedSince": "2024-05-15",
-    "openSince": "2026-02-14",
+    "mergedSince": "2024-05-16",
+    "openSince": "2026-02-15",
     "openFilter": "updated"
   },
   "summary": {
-    "mergedCount": 11,
+    "mergedCount": 12,
     "openCount": 4,
-    "reposTouched": 6,
+    "reposTouched": 7,
     "topTech": [
       {
         "name": "JavaScript",
-        "count": 9
+        "count": 10
       },
       {
         "name": "REST API",
-        "count": 7
+        "count": 8
       },
       {
         "name": "TypeScript",
@@ -42,6 +42,32 @@
     ]
   },
   "merged": [
+    {
+      "type": "merged",
+      "repo": "ivasuy/VibeDeck",
+      "number": 1,
+      "title": "feat: add local project README sync command and showcase updates",
+      "url": "https://github.com/ivasuy/VibeDeck/pull/1",
+      "state": "merged",
+      "createdAt": "2026-05-15T12:35:54Z",
+      "updatedAt": "2026-05-15T22:13:56Z",
+      "closedAt": "2026-05-15T22:13:55Z",
+      "commentsCount": 0,
+      "mergedAt": "2026-05-15T22:13:55Z",
+      "changedFiles": 17,
+      "additions": 1723,
+      "deletions": 107,
+      "reviewDecision": null,
+      "mergeStateStatus": "UNKNOWN",
+      "isDraft": false,
+      "labels": [],
+      "language": "JavaScript",
+      "summary": "## Summary This PR introduces a local-only `project-readme-sync` flow and updates documentation/showcase copy to present both README banner surfaces clearly. ## What changed - Adde",
+      "stack": [
+        "JavaScript",
+        "REST API"
+      ]
+    },
     {
       "type": "merged",
       "repo": "Agent-Field/SWE-AF",
