@@ -1,27 +1,28 @@
 # PR Audit
 
-Generated: `2026-05-17T06:30:43.742Z`  
+Generated: `2026-05-18T07:06:32.785Z`  
 Author: `ivasuy`  
-Merged PRs since: `2024-05-17`  
-Open PRs: `updated >= 2026-02-16`
+Merged PRs since: `2024-05-18`  
+Open PRs: `updated >= 2026-02-17`
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
 | Merged PRs | 12 |
-| Open PRs | 4 |
+| Open PRs | 5 |
 | Repositories touched | 7 |
 
 ## Top tech stack detected from PRs
 
-- JavaScript: 10
-- REST API: 8
-- TypeScript: 7
+- JavaScript: 11
+- REST API: 9
+- TypeScript: 8
 - Go: 6
-- OpenAI: 4
+- OpenAI: 5
 - Python: 3
 - Docker: 1
+- React: 1
 
 ## Merged PRs
 
@@ -44,6 +45,7 @@ Open PRs: `updated >= 2026-02-16`
 
 | PR | Title | Date | Stack | Changes |
 |---|---|---|---|---|
+[ivasuy/VibeDeck#2](https://github.com/ivasuy/VibeDeck/pull/2) | Release 0.1.3 maintenance and UI stabilization | 2026-05-17 | JavaScript, TypeScript, React, OpenAI, REST API | 187 files, +17009/-2988
 [paperclipai/paperclip#5413](https://github.com/paperclipai/paperclip/pull/5413) | fix(server): adopt stale checkout run ownership | 2026-05-14 | TypeScript, OpenAI, REST API | 5 files, +483/-89
 [paperclipai/paperclip#5406](https://github.com/paperclipai/paperclip/pull/5406) | docs: add npx registry workaround for onboard | 2026-05-14 | TypeScript, OpenAI | 2 files, +32/-0
 [paperclipai/paperclip#5404](https://github.com/paperclipai/paperclip/pull/5404) | fix(server): PATCH assignee wake via queueIssueAssignmentWakeup | 2026-05-14 | TypeScript, OpenAI, REST API | 4 files, +211/-28

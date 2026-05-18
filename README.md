@@ -85,7 +85,7 @@ I’m a software developer who likes building things that actually get used. I e
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/merged-12-2ea44f?style=flat-square" alt="merged: 12" /> <img src="https://img.shields.io/badge/open-4-f0883e?style=flat-square" alt="open: 4" /> <img src="https://img.shields.io/badge/repos-7-0969da?style=flat-square" alt="repos: 7" /> <img src="https://img.shields.io/badge/synced-2026--05--17-24292f?style=flat-square" alt="synced: 2026-05-17" />
+<img src="https://img.shields.io/badge/merged-12-2ea44f?style=flat-square" alt="merged: 12" /> <img src="https://img.shields.io/badge/open-5-f0883e?style=flat-square" alt="open: 5" /> <img src="https://img.shields.io/badge/repos-7-0969da?style=flat-square" alt="repos: 7" /> <img src="https://img.shields.io/badge/synced-2026--05--18-24292f?style=flat-square" alt="synced: 2026-05-18" />
 
 </div>
 
@@ -103,6 +103,7 @@ I’m a software developer who likes building things that actually get used. I e
 
 **Open PRs**
 
+- [ivasuy/VibeDeck#2](https://github.com/ivasuy/VibeDeck/pull/2) Release 0.1.3 maintenance and UI stabilization · `2026-05-17` · 187 files · _draft_
 - [paperclipai/paperclip#5413](https://github.com/paperclipai/paperclip/pull/5413) fix(server): adopt stale checkout run ownership · `2026-05-14` · 5 files
 - [paperclipai/paperclip#5406](https://github.com/paperclipai/paperclip/pull/5406) docs: add npx registry workaround for onboard · `2026-05-14` · 2 files
 - [paperclipai/paperclip#5404](https://github.com/paperclipai/paperclip/pull/5404) fix(server): PATCH assignee wake via queueIssueAssignmentWakeup · `2026-05-14` · 4 files
