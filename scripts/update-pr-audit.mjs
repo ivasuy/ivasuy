@@ -16,6 +16,14 @@ const ENRICH_LIMIT = Number(process.env.ENRICH_LIMIT || 250);
 const SHOW_MERGED = Number(process.env.SHOW_MERGED || 6);
 const SHOW_OPEN = Number(process.env.SHOW_OPEN || 6);
 
+const EXCLUDE_OWN = String(process.env.EXCLUDE_OWN ?? "true").toLowerCase() !== "false";
+const EXCLUDE_REPOS = new Set(
+  (process.env.EXCLUDE_REPOS || "")
+    .split(",")
+    .map((s) => s.trim().toLowerCase())
+    .filter(Boolean)
+);
+
 if (!USER) {
   throw new Error("Missing GITHUB_USER or GITHUB_REPOSITORY_OWNER.");
 }
@@ -54,8 +62,8 @@ const repoLangCache = new Map();
 main();
 
 function main() {
-  const mergedRaw = searchMergedPrs();
-  const openRaw = searchOpenPrs();
+  const mergedRaw = searchMergedPrs().filter(keepRepo);
+  const openRaw = searchOpenPrs().filter(keepRepo);
 
   const merged = enrichPrs(mergedRaw, "merged").sort(sortMergedDesc);
   const open = enrichPrs(openRaw, "open").sort(sortUpdatedDesc);
@@ -93,6 +101,15 @@ function main() {
   console.log(`Generated PR audit for ${USER}`);
   console.log(`Merged PRs: ${merged.length}`);
   console.log(`Open PRs: ${open.length}`);
+}
+
+function keepRepo(item) {
+  const repo = repoName(item.repository);
+  if (!repo) return true;
+  const lower = repo.toLowerCase();
+  if (EXCLUDE_REPOS.has(lower)) return false;
+  if (EXCLUDE_OWN && lower.split("/")[0] === USER.toLowerCase()) return false;
+  return true;
 }
 
 function searchMergedPrs() {

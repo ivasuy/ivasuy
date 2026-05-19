@@ -85,7 +85,7 @@ I’m a software developer who likes building things that actually get used. I e
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/merged-12-2ea44f?style=flat-square" alt="merged: 12" /> <img src="https://img.shields.io/badge/open-5-f0883e?style=flat-square" alt="open: 5" /> <img src="https://img.shields.io/badge/repos-7-0969da?style=flat-square" alt="repos: 7" /> <img src="https://img.shields.io/badge/synced-2026--05--18-24292f?style=flat-square" alt="synced: 2026-05-18" />
+<img src="https://img.shields.io/badge/merged-6-2ea44f?style=flat-square" alt="merged: 6" /> <img src="https://img.shields.io/badge/open-4-f0883e?style=flat-square" alt="open: 4" /> <img src="https://img.shields.io/badge/repos-4-0969da?style=flat-square" alt="repos: 4" /> <img src="https://img.shields.io/badge/synced-2026--05--18-24292f?style=flat-square" alt="synced: 2026-05-18" />
 
 </div>
 
@@ -93,17 +93,15 @@ I’m a software developer who likes building things that actually get used. I e
 
 **Recently Merged**
 
-- [ivasuy/VibeDeck#1](https://github.com/ivasuy/VibeDeck/pull/1) feat: add local project README sync command and showcase updates · `2026-05-15` · 17 files
 - [Agent-Field/SWE-AF#72](https://github.com/Agent-Field/SWE-AF/pull/72) Add Codex CLI runtime support · `2026-05-11` · 30 files
 - [Agent-Field/agentfield#549](https://github.com/Agent-Field/agentfield/pull/549) Feat/UI llm health widget 322 · `2026-05-07` · 11 files
 - [Agent-Field/agentfield#548](https://github.com/Agent-Field/agentfield/pull/548) Feat/UI error category 325 · `2026-05-07` · 15 files
 - [Agent-Field/agentfield#547](https://github.com/Agent-Field/agentfield/pull/547) Feat/UI queue concurrency status 323 · `2026-05-07` · 10 files
 - [Agent-Field/agentfield#546](https://github.com/Agent-Field/agentfield/pull/546) fix(sdk-python): count opencode turns from JSON step events · `2026-05-07` · 3 files
-<sub>+6 more in <a href="./PR_AUDIT.md">PR_AUDIT.md</a></sub>
+- [Agent-Field/agentfield#100](https://github.com/Agent-Field/agentfield/pull/100) added note() method for fire-and-forget execution logging · `2025-12-21` · 10 files
 
 **Open PRs**
 
-- [ivasuy/VibeDeck#2](https://github.com/ivasuy/VibeDeck/pull/2) Release 0.1.3 maintenance and UI stabilization · `2026-05-17` · 187 files · _draft_
 - [paperclipai/paperclip#5413](https://github.com/paperclipai/paperclip/pull/5413) fix(server): adopt stale checkout run ownership · `2026-05-14` · 5 files
 - [paperclipai/paperclip#5406](https://github.com/paperclipai/paperclip/pull/5406) docs: add npx registry workaround for onboard · `2026-05-14` · 2 files
 - [paperclipai/paperclip#5404](https://github.com/paperclipai/paperclip/pull/5404) fix(server): PATCH assignee wake via queueIssueAssignmentWakeup · `2026-05-14` · 4 files

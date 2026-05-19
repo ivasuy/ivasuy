@@ -7,29 +7,29 @@
     "openFilter": "updated"
   },
   "summary": {
-    "mergedCount": 12,
-    "openCount": 5,
-    "reposTouched": 7,
+    "mergedCount": 6,
+    "openCount": 4,
+    "reposTouched": 4,
     "topTech": [
       {
-        "name": "JavaScript",
-        "count": 11
-      },
-      {
-        "name": "REST API",
-        "count": 9
-      },
-      {
         "name": "TypeScript",
-        "count": 8
+        "count": 7
       },
       {
         "name": "Go",
         "count": 6
       },
       {
+        "name": "REST API",
+        "count": 6
+      },
+      {
+        "name": "JavaScript",
+        "count": 4
+      },
+      {
         "name": "OpenAI",
-        "count": 5
+        "count": 4
       },
       {
         "name": "Python",
@@ -38,40 +38,10 @@
       {
         "name": "Docker",
         "count": 1
-      },
-      {
-        "name": "React",
-        "count": 1
       }
     ]
   },
   "merged": [
-    {
-      "type": "merged",
-      "repo": "ivasuy/VibeDeck",
-      "number": 1,
-      "title": "feat: add local project README sync command and showcase updates",
-      "url": "https://github.com/ivasuy/VibeDeck/pull/1",
-      "state": "merged",
-      "createdAt": "2026-05-15T12:35:54Z",
-      "updatedAt": "2026-05-15T22:13:56Z",
-      "closedAt": "2026-05-15T22:13:55Z",
-      "commentsCount": 0,
-      "mergedAt": "2026-05-15T22:13:55Z",
-      "changedFiles": 17,
-      "additions": 1723,
-      "deletions": 107,
-      "reviewDecision": null,
-      "mergeStateStatus": "UNKNOWN",
-      "isDraft": false,
-      "labels": [],
-      "language": "JavaScript",
-      "summary": "## Summary This PR introduces a local-only `project-readme-sync` flow and updates documentation/showcase copy to present both README banner surfaces clearly. ## What changed - Adde",
-      "stack": [
-        "JavaScript",
-        "REST API"
-      ]
-    },
     {
       "type": "merged",
       "repo": "Agent-Field/SWE-AF",
@@ -212,31 +182,6 @@
     },
     {
       "type": "merged",
-      "repo": "ivasuy/SignalDesk",
-      "number": 1,
-      "title": "Feature/friends release",
-      "url": "https://github.com/ivasuy/SignalDesk/pull/1",
-      "state": "merged",
-      "createdAt": "2025-12-26T08:22:02Z",
-      "updatedAt": "2025-12-26T08:22:16Z",
-      "closedAt": "2025-12-26T08:22:16Z",
-      "commentsCount": 0,
-      "mergedAt": "2025-12-26T08:22:16Z",
-      "changedFiles": 64,
-      "additions": 5670,
-      "deletions": 3149,
-      "reviewDecision": null,
-      "mergeStateStatus": "UNKNOWN",
-      "isDraft": false,
-      "labels": [],
-      "language": "JavaScript",
-      "summary": "Feature/friends release",
-      "stack": [
-        "JavaScript"
-      ]
-    },
-    {
-      "type": "merged",
       "repo": "Agent-Field/agentfield",
       "number": 100,
       "title": "added note() method for fire-and-forget execution logging",
@@ -262,139 +207,9 @@
         "Python",
         "REST API"
       ]
-    },
-    {
-      "type": "merged",
-      "repo": "aniasusual/wingman.ai",
-      "number": 19,
-      "title": "change in context and api key",
-      "url": "https://github.com/aniasusual/wingman.ai/pull/19",
-      "state": "merged",
-      "createdAt": "2025-03-25T05:18:59Z",
-      "updatedAt": "2025-03-25T05:19:10Z",
-      "closedAt": "2025-03-25T05:19:10Z",
-      "commentsCount": 0,
-      "mergedAt": "2025-03-25T05:19:10Z",
-      "changedFiles": 1,
-      "additions": 60,
-      "deletions": 18,
-      "reviewDecision": null,
-      "mergeStateStatus": "UNKNOWN",
-      "isDraft": false,
-      "labels": [],
-      "language": "JavaScript",
-      "summary": "change in context and api key",
-      "stack": [
-        "JavaScript",
-        "REST API"
-      ]
-    },
-    {
-      "type": "merged",
-      "repo": "aniasusual/wingman.ai",
-      "number": 9,
-      "title": "New Logo",
-      "url": "https://github.com/aniasusual/wingman.ai/pull/9",
-      "state": "merged",
-      "createdAt": "2025-03-07T10:32:29Z",
-      "updatedAt": "2025-03-07T10:32:37Z",
-      "closedAt": "2025-03-07T10:32:37Z",
-      "commentsCount": 0,
-      "mergedAt": "2025-03-07T10:32:37Z",
-      "changedFiles": 1,
-      "additions": 0,
-      "deletions": 0,
-      "reviewDecision": null,
-      "mergeStateStatus": "UNKNOWN",
-      "isDraft": false,
-      "labels": [],
-      "language": "JavaScript",
-      "summary": "New Logo",
-      "stack": [
-        "JavaScript"
-      ]
-    },
-    {
-      "type": "merged",
-      "repo": "aniasusual/wingman.ai",
-      "number": 8,
-      "title": "Added Logo",
-      "url": "https://github.com/aniasusual/wingman.ai/pull/8",
-      "state": "merged",
-      "createdAt": "2025-03-07T09:36:30Z",
-      "updatedAt": "2025-03-07T09:36:40Z",
-      "closedAt": "2025-03-07T09:36:40Z",
-      "commentsCount": 0,
-      "mergedAt": "2025-03-07T09:36:40Z",
-      "changedFiles": 4,
-      "additions": 129,
-      "deletions": 133,
-      "reviewDecision": null,
-      "mergeStateStatus": "UNKNOWN",
-      "isDraft": false,
-      "labels": [],
-      "language": "JavaScript",
-      "summary": "Added Logo",
-      "stack": [
-        "JavaScript"
-      ]
-    },
-    {
-      "type": "merged",
-      "repo": "aniasusual/wingman.ai",
-      "number": 4,
-      "title": "Groq Model Added",
-      "url": "https://github.com/aniasusual/wingman.ai/pull/4",
-      "state": "merged",
-      "createdAt": "2025-03-04T09:29:07Z",
-      "updatedAt": "2025-03-04T09:29:19Z",
-      "closedAt": "2025-03-04T09:29:19Z",
-      "commentsCount": 0,
-      "mergedAt": "2025-03-04T09:29:19Z",
-      "changedFiles": 2,
-      "additions": 155,
-      "deletions": 117,
-      "reviewDecision": null,
-      "mergeStateStatus": "UNKNOWN",
-      "isDraft": false,
-      "labels": [],
-      "language": "JavaScript",
-      "summary": "Groq Model Added",
-      "stack": [
-        "JavaScript"
-      ]
     }
   ],
   "open": [
-    {
-      "type": "open",
-      "repo": "ivasuy/VibeDeck",
-      "number": 2,
-      "title": "Release 0.1.3 maintenance and UI stabilization",
-      "url": "https://github.com/ivasuy/VibeDeck/pull/2",
-      "state": "open",
-      "createdAt": "2026-05-17T20:47:16Z",
-      "updatedAt": "2026-05-17T20:47:16Z",
-      "closedAt": "0001-01-01T00:00:00Z",
-      "commentsCount": 0,
-      "mergedAt": "0001-01-01T00:00:00Z",
-      "changedFiles": 187,
-      "additions": 17009,
-      "deletions": 2988,
-      "reviewDecision": null,
-      "mergeStateStatus": "CLEAN",
-      "isDraft": true,
-      "labels": [],
-      "language": "JavaScript",
-      "summary": "## Summary This release branch collects the VibeDeck 0.1.3 maintenance work: - anchors the README/product identity around local, live, multi-provider usage visibility - improves br",
-      "stack": [
-        "JavaScript",
-        "TypeScript",
-        "React",
-        "OpenAI",
-        "REST API"
-      ]
-    },
     {
       "type": "open",
       "repo": "paperclipai/paperclip",

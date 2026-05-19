@@ -39,6 +39,8 @@ jobs:
       ENRICH_LIMIT: "250"
       SHOW_MERGED: "6"
       SHOW_OPEN: "6"
+      EXCLUDE_OWN: "true"
+      EXCLUDE_REPOS: "aniasusual/wingman.ai"
 
     steps:
       - name: Checkout profile repository
