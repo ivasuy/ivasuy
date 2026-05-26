@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-25T07:58:08.823Z",
+  "generatedAt": "2026-05-26T06:56:14.626Z",
   "user": "ivasuy",
   "ranges": {
-    "mergedSince": "2024-05-25",
-    "openSince": "2026-02-24",
+    "mergedSince": "2024-05-26",
+    "openSince": "2026-02-25",
     "openFilter": "updated"
   },
   "summary": {
@@ -226,7 +226,7 @@
       "additions": 483,
       "deletions": 89,
       "reviewDecision": null,
-      "mergeStateStatus": "CLEAN",
+      "mergeStateStatus": "UNKNOWN",
       "isDraft": false,
       "labels": [],
       "language": "TypeScript",
@@ -253,7 +253,7 @@
       "additions": 32,
       "deletions": 0,
       "reviewDecision": null,
-      "mergeStateStatus": "CLEAN",
+      "mergeStateStatus": "UNKNOWN",
       "isDraft": false,
       "labels": [],
       "language": "TypeScript",
@@ -279,7 +279,7 @@
       "additions": 211,
       "deletions": 28,
       "reviewDecision": null,
-      "mergeStateStatus": "CLEAN",
+      "mergeStateStatus": "UNKNOWN",
       "isDraft": false,
       "labels": [],
       "language": "TypeScript",
@@ -306,7 +306,7 @@
       "additions": 67,
       "deletions": 2,
       "reviewDecision": "REVIEW_REQUIRED",
-      "mergeStateStatus": "UNKNOWN",
+      "mergeStateStatus": "DIRTY",
       "isDraft": false,
       "labels": [],
       "language": "Go",
