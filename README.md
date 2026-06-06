@@ -107,8 +107,3 @@ I’m a software developer who likes building things that actually get used. I e
 - [paperclipai/paperclip#5404](https://github.com/paperclipai/paperclip/pull/5404) fix(server): PATCH assignee wake via queueIssueAssignmentWakeup · `2026-05-14` · 4 files
 - [entireio/cli#1149](https://github.com/entireio/cli/pull/1149) fix(settings): activate hooks for entire enable --local · `2026-05-08` · 2 files
 <!-- PR-AUDIT:END -->
-
-<!-- vibedeck:stats:start -->
-![VibeDeck Usage](https://raw.githubusercontent.com/ivasuy/ivasuy/main/github-readme-banner.svg?v=1feb7b9cf460cb106b9c3fa90b1b108338278d5b)
-<!-- vibedeck:stats:end -->
-
