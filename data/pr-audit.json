@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-06-11T08:16:08.571Z",
+  "generatedAt": "2026-06-12T08:01:52.262Z",
   "user": "ivasuy",
   "ranges": {
-    "mergedSince": "2024-06-11",
-    "openSince": "2026-03-13",
+    "mergedSince": "2024-06-12",
+    "openSince": "2026-03-14",
     "openFilter": "updated"
   },
   "summary": {
-    "mergedCount": 6,
-    "openCount": 4,
+    "mergedCount": 7,
+    "openCount": 3,
     "reposTouched": 4,
     "topTech": [
       {
@@ -42,6 +42,33 @@
     ]
   },
   "merged": [
+    {
+      "type": "merged",
+      "repo": "paperclipai/paperclip",
+      "number": 5413,
+      "title": "fix(server): adopt stale checkout run ownership",
+      "url": "https://github.com/paperclipai/paperclip/pull/5413",
+      "state": "merged",
+      "createdAt": "2026-05-07T09:08:41Z",
+      "updatedAt": "2026-06-12T05:03:07Z",
+      "closedAt": "2026-06-12T05:03:07Z",
+      "commentsCount": 7,
+      "mergedAt": "2026-06-12T05:03:07Z",
+      "changedFiles": 5,
+      "additions": 600,
+      "deletions": 115,
+      "reviewDecision": null,
+      "mergeStateStatus": "UNKNOWN",
+      "isDraft": false,
+      "labels": [],
+      "language": "TypeScript",
+      "summary": "## Thinking Path > - Paperclip is a control plane for autonomous AI-agent companies. > - Issue checkout ownership is part of the execution-control layer that prevents two runs from",
+      "stack": [
+        "TypeScript",
+        "OpenAI",
+        "REST API"
+      ]
+    },
     {
       "type": "merged",
       "repo": "Agent-Field/SWE-AF",
@@ -213,33 +240,6 @@
     {
       "type": "open",
       "repo": "paperclipai/paperclip",
-      "number": 5413,
-      "title": "fix(server): adopt stale checkout run ownership",
-      "url": "https://github.com/paperclipai/paperclip/pull/5413",
-      "state": "open",
-      "createdAt": "2026-05-07T09:08:41Z",
-      "updatedAt": "2026-05-14T05:17:10Z",
-      "closedAt": "0001-01-01T00:00:00Z",
-      "commentsCount": 1,
-      "mergedAt": "0001-01-01T00:00:00Z",
-      "changedFiles": 5,
-      "additions": 483,
-      "deletions": 89,
-      "reviewDecision": null,
-      "mergeStateStatus": "UNKNOWN",
-      "isDraft": false,
-      "labels": [],
-      "language": "TypeScript",
-      "summary": "## Thinking Path > - Paperclip is a control plane for autonomous AI-agent companies. > - Issue checkout ownership is part of the execution-control layer that prevents two runs from",
-      "stack": [
-        "TypeScript",
-        "OpenAI",
-        "REST API"
-      ]
-    },
-    {
-      "type": "open",
-      "repo": "paperclipai/paperclip",
       "number": 5406,
       "title": "docs: add npx registry workaround for onboard",
       "url": "https://github.com/paperclipai/paperclip/pull/5406",
@@ -306,7 +306,7 @@
       "additions": 67,
       "deletions": 2,
       "reviewDecision": "REVIEW_REQUIRED",
-      "mergeStateStatus": "UNKNOWN",
+      "mergeStateStatus": "DIRTY",
       "isDraft": false,
       "labels": [],
       "language": "Go",

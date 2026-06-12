@@ -85,7 +85,7 @@ I’m a software developer who likes building things that actually get used. I e
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/merged-6-2ea44f?style=flat-square" alt="merged: 6" /> <img src="https://img.shields.io/badge/open-4-f0883e?style=flat-square" alt="open: 4" /> <img src="https://img.shields.io/badge/repos-4-0969da?style=flat-square" alt="repos: 4" /> <img src="https://img.shields.io/badge/synced-2026--06--11-24292f?style=flat-square" alt="synced: 2026-06-11" />
+<img src="https://img.shields.io/badge/merged-7-2ea44f?style=flat-square" alt="merged: 7" /> <img src="https://img.shields.io/badge/open-3-f0883e?style=flat-square" alt="open: 3" /> <img src="https://img.shields.io/badge/repos-4-0969da?style=flat-square" alt="repos: 4" /> <img src="https://img.shields.io/badge/synced-2026--06--12-24292f?style=flat-square" alt="synced: 2026-06-12" />
 
 </div>
 
@@ -93,16 +93,16 @@ I’m a software developer who likes building things that actually get used. I e
 
 **Recently Merged**
 
+- [paperclipai/paperclip#5413](https://github.com/paperclipai/paperclip/pull/5413) fix(server): adopt stale checkout run ownership · `2026-06-12` · 5 files
 - [Agent-Field/SWE-AF#72](https://github.com/Agent-Field/SWE-AF/pull/72) Add Codex CLI runtime support · `2026-05-11` · 30 files
 - [Agent-Field/agentfield#549](https://github.com/Agent-Field/agentfield/pull/549) Feat/UI llm health widget 322 · `2026-05-07` · 11 files
 - [Agent-Field/agentfield#548](https://github.com/Agent-Field/agentfield/pull/548) Feat/UI error category 325 · `2026-05-07` · 15 files
 - [Agent-Field/agentfield#547](https://github.com/Agent-Field/agentfield/pull/547) Feat/UI queue concurrency status 323 · `2026-05-07` · 10 files
 - [Agent-Field/agentfield#546](https://github.com/Agent-Field/agentfield/pull/546) fix(sdk-python): count opencode turns from JSON step events · `2026-05-07` · 3 files
-- [Agent-Field/agentfield#100](https://github.com/Agent-Field/agentfield/pull/100) added note() method for fire-and-forget execution logging · `2025-12-21` · 10 files
+<sub>+1 more in <a href="./PR_AUDIT.md">PR_AUDIT.md</a></sub>
 
 **Open PRs**
 
-- [paperclipai/paperclip#5413](https://github.com/paperclipai/paperclip/pull/5413) fix(server): adopt stale checkout run ownership · `2026-05-14` · 5 files
 - [paperclipai/paperclip#5406](https://github.com/paperclipai/paperclip/pull/5406) docs: add npx registry workaround for onboard · `2026-05-14` · 2 files
 - [paperclipai/paperclip#5404](https://github.com/paperclipai/paperclip/pull/5404) fix(server): PATCH assignee wake via queueIssueAssignmentWakeup · `2026-05-14` · 4 files
 - [entireio/cli#1149](https://github.com/entireio/cli/pull/1149) fix(settings): activate hooks for entire enable --local · `2026-05-08` · 2 files
