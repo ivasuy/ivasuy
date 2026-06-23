@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-22T09:22:08.708Z",
+  "generatedAt": "2026-06-23T06:59:16.867Z",
   "user": "ivasuy",
   "ranges": {
-    "mergedSince": "2024-06-22",
-    "openSince": "2026-03-24",
+    "mergedSince": "2024-06-23",
+    "openSince": "2026-03-25",
     "openFilter": "updated"
   },
   "summary": {
@@ -253,7 +253,7 @@
       "additions": 32,
       "deletions": 0,
       "reviewDecision": null,
-      "mergeStateStatus": "CLEAN",
+      "mergeStateStatus": "UNKNOWN",
       "isDraft": false,
       "labels": [],
       "language": "TypeScript",
@@ -279,7 +279,7 @@
       "additions": 211,
       "deletions": 28,
       "reviewDecision": null,
-      "mergeStateStatus": "DIRTY",
+      "mergeStateStatus": "UNKNOWN",
       "isDraft": false,
       "labels": [],
       "language": "TypeScript",
