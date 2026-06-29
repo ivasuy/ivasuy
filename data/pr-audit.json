@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-28T07:10:31.787Z",
+  "generatedAt": "2026-06-29T08:25:41.289Z",
   "user": "ivasuy",
   "ranges": {
-    "mergedSince": "2024-06-28",
-    "openSince": "2026-03-30",
+    "mergedSince": "2024-06-29",
+    "openSince": "2026-03-31",
     "openFilter": "updated"
   },
   "summary": {
@@ -306,7 +306,7 @@
       "additions": 67,
       "deletions": 2,
       "reviewDecision": "REVIEW_REQUIRED",
-      "mergeStateStatus": "DIRTY",
+      "mergeStateStatus": "UNKNOWN",
       "isDraft": false,
       "labels": [],
       "language": "Go",
