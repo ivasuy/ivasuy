@@ -85,7 +85,7 @@ I’m a software developer who likes building things that actually get used. I e
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/merged-7-2ea44f?style=flat-square" alt="merged: 7" /> <img src="https://img.shields.io/badge/open-3-f0883e?style=flat-square" alt="open: 3" /> <img src="https://img.shields.io/badge/repos-4-0969da?style=flat-square" alt="repos: 4" /> <img src="https://img.shields.io/badge/synced-2026--07--11-24292f?style=flat-square" alt="synced: 2026-07-11" />
+<img src="https://img.shields.io/badge/merged-7-2ea44f?style=flat-square" alt="merged: 7" /> <img src="https://img.shields.io/badge/open-3-f0883e?style=flat-square" alt="open: 3" /> <img src="https://img.shields.io/badge/repos-4-0969da?style=flat-square" alt="repos: 4" /> <img src="https://img.shields.io/badge/synced-2026--07--12-24292f?style=flat-square" alt="synced: 2026-07-12" />
 
 </div>
 
