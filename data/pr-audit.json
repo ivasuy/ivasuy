@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-13T06:30:32.296Z",
+  "generatedAt": "2026-07-14T05:40:22.485Z",
   "user": "ivasuy",
   "ranges": {
-    "mergedSince": "2024-07-13",
-    "openSince": "2026-04-14",
+    "mergedSince": "2024-07-14",
+    "openSince": "2026-04-15",
     "openFilter": "updated"
   },
   "summary": {
@@ -12,16 +12,16 @@
     "reposTouched": 4,
     "topTech": [
       {
+        "name": "Go",
+        "count": 7
+      },
+      {
         "name": "TypeScript",
         "count": 7
       },
       {
-        "name": "Go",
-        "count": 6
-      },
-      {
         "name": "REST API",
-        "count": 6
+        "count": 5
       },
       {
         "name": "JavaScript",
@@ -88,14 +88,14 @@
       "mergeStateStatus": "UNKNOWN",
       "isDraft": false,
       "labels": [],
-      "language": "Python",
+      "language": "Go",
       "summary": "## Summary Adds conservative Codex CLI runtime support to SWE-AF without changing the existing default runtime or replacing Claude/OpenCode/HAX behavior. This lets both SWE-AF plan",
       "stack": [
-        "Python",
+        "Go",
         "JavaScript",
+        "Python",
         "Docker",
-        "OpenAI",
-        "REST API"
+        "OpenAI"
       ]
     },
     {
@@ -253,7 +253,7 @@
       "additions": 32,
       "deletions": 0,
       "reviewDecision": null,
-      "mergeStateStatus": "UNKNOWN",
+      "mergeStateStatus": "CLEAN",
       "isDraft": false,
       "labels": [],
       "language": "TypeScript",
@@ -279,7 +279,7 @@
       "additions": 211,
       "deletions": 28,
       "reviewDecision": null,
-      "mergeStateStatus": "UNKNOWN",
+      "mergeStateStatus": "DIRTY",
       "isDraft": false,
       "labels": [],
       "language": "TypeScript",
@@ -306,7 +306,7 @@
       "additions": 67,
       "deletions": 2,
       "reviewDecision": "REVIEW_REQUIRED",
-      "mergeStateStatus": "DIRTY",
+      "mergeStateStatus": "UNKNOWN",
       "isDraft": false,
       "labels": [],
       "language": "Go",
