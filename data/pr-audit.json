@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-08-06T06:04:56.238Z",
+  "generatedAt": "2026-08-07T05:02:29.927Z",
   "user": "ivasuy",
   "ranges": {
-    "mergedSince": "2024-08-06",
-    "openSince": "2026-05-08",
+    "mergedSince": "2024-08-07",
+    "openSince": "2026-05-09",
     "openFilter": "updated"
   },
   "summary": {
     "mergedCount": 7,
-    "openCount": 3,
-    "reposTouched": 4,
+    "openCount": 2,
+    "reposTouched": 3,
     "topTech": [
-      {
-        "name": "Go",
-        "count": 7
-      },
       {
         "name": "TypeScript",
         "count": 7
+      },
+      {
+        "name": "Go",
+        "count": 6
       },
       {
         "name": "REST API",
@@ -288,31 +288,6 @@
         "TypeScript",
         "OpenAI",
         "REST API"
-      ]
-    },
-    {
-      "type": "open",
-      "repo": "entireio/cli",
-      "number": 1149,
-      "title": "fix(settings): activate hooks for entire enable --local",
-      "url": "https://github.com/entireio/cli/pull/1149",
-      "state": "open",
-      "createdAt": "2026-05-08T04:30:07Z",
-      "updatedAt": "2026-05-08T04:30:10Z",
-      "closedAt": "0001-01-01T00:00:00Z",
-      "commentsCount": 0,
-      "mergedAt": "0001-01-01T00:00:00Z",
-      "changedFiles": 2,
-      "additions": 67,
-      "deletions": 2,
-      "reviewDecision": "REVIEW_REQUIRED",
-      "mergeStateStatus": "UNKNOWN",
-      "isDraft": false,
-      "labels": [],
-      "language": "Go",
-      "summary": "## Summary Fixes #1123. This PR switches `IsSetUpAndEnabled` to `IsSetUpAny`, which already exists and correctly checks for either file. `Load()` already merges both files and defa",
-      "stack": [
-        "Go"
       ]
     }
   ]

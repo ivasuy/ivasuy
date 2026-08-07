@@ -1,22 +1,22 @@
 # PR Audit
 
-Generated: `2026-08-06T06:04:56.238Z`  
+Generated: `2026-08-07T05:02:29.927Z`  
 Author: `ivasuy`  
-Merged PRs since: `2024-08-06`  
-Open PRs: `updated >= 2026-05-08`
+Merged PRs since: `2024-08-07`  
+Open PRs: `updated >= 2026-05-09`
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
 | Merged PRs | 7 |
-| Open PRs | 3 |
-| Repositories touched | 4 |
+| Open PRs | 2 |
+| Repositories touched | 3 |
 
 ## Top tech stack detected from PRs
 
-- Go: 7
 - TypeScript: 7
+- Go: 6
 - REST API: 5
 - JavaScript: 4
 - OpenAI: 4
@@ -41,4 +41,3 @@ Open PRs: `updated >= 2026-05-08`
 |---|---|---|---|---|
 [paperclipai/paperclip#5406](https://github.com/paperclipai/paperclip/pull/5406) | docs: add npx registry workaround for onboard | 2026-05-14 | TypeScript, OpenAI | 2 files, +32/-0
 [paperclipai/paperclip#5404](https://github.com/paperclipai/paperclip/pull/5404) | fix(server): PATCH assignee wake via queueIssueAssignmentWakeup | 2026-05-14 | TypeScript, OpenAI, REST API | 4 files, +211/-28
-[entireio/cli#1149](https://github.com/entireio/cli/pull/1149) | fix(settings): activate hooks for entire enable --local | 2026-05-08 | Go | 2 files, +67/-2

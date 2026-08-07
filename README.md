@@ -85,7 +85,7 @@ I’m a software developer who likes building things that actually get used. I e
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/merged-7-2ea44f?style=flat-square" alt="merged: 7" /> <img src="https://img.shields.io/badge/open-3-f0883e?style=flat-square" alt="open: 3" /> <img src="https://img.shields.io/badge/repos-4-0969da?style=flat-square" alt="repos: 4" /> <img src="https://img.shields.io/badge/synced-2026--08--06-24292f?style=flat-square" alt="synced: 2026-08-06" />
+<img src="https://img.shields.io/badge/merged-7-2ea44f?style=flat-square" alt="merged: 7" /> <img src="https://img.shields.io/badge/open-2-f0883e?style=flat-square" alt="open: 2" /> <img src="https://img.shields.io/badge/repos-3-0969da?style=flat-square" alt="repos: 3" /> <img src="https://img.shields.io/badge/synced-2026--08--07-24292f?style=flat-square" alt="synced: 2026-08-07" />
 
 </div>
 
@@ -105,5 +105,4 @@ I’m a software developer who likes building things that actually get used. I e
 
 - [paperclipai/paperclip#5406](https://github.com/paperclipai/paperclip/pull/5406) docs: add npx registry workaround for onboard · `2026-05-14` · 2 files
 - [paperclipai/paperclip#5404](https://github.com/paperclipai/paperclip/pull/5404) fix(server): PATCH assignee wake via queueIssueAssignmentWakeup · `2026-05-14` · 4 files
-- [entireio/cli#1149](https://github.com/entireio/cli/pull/1149) fix(settings): activate hooks for entire enable --local · `2026-05-08` · 2 files
 <!-- PR-AUDIT:END -->
