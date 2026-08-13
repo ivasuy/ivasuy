@@ -85,7 +85,7 @@ I’m a software developer who likes building things that actually get used. I e
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/merged-7-2ea44f?style=flat-square" alt="merged: 7" /> <img src="https://img.shields.io/badge/open-2-f0883e?style=flat-square" alt="open: 2" /> <img src="https://img.shields.io/badge/repos-3-0969da?style=flat-square" alt="repos: 3" /> <img src="https://img.shields.io/badge/synced-2026--08--12-24292f?style=flat-square" alt="synced: 2026-08-12" />
+<img src="https://img.shields.io/badge/merged-7-2ea44f?style=flat-square" alt="merged: 7" /> <img src="https://img.shields.io/badge/open-0-f0883e?style=flat-square" alt="open: 0" /> <img src="https://img.shields.io/badge/repos-3-0969da?style=flat-square" alt="repos: 3" /> <img src="https://img.shields.io/badge/synced-2026--08--13-24292f?style=flat-square" alt="synced: 2026-08-13" />
 
 </div>
 
@@ -103,6 +103,5 @@ I’m a software developer who likes building things that actually get used. I e
 
 **Open PRs**
 
-- [paperclipai/paperclip#5406](https://github.com/paperclipai/paperclip/pull/5406) docs: add npx registry workaround for onboard · `2026-05-14` · 2 files
-- [paperclipai/paperclip#5404](https://github.com/paperclipai/paperclip/pull/5404) fix(server): PATCH assignee wake via queueIssueAssignmentWakeup · `2026-05-14` · 4 files
+_No open PRs found._
 <!-- PR-AUDIT:END -->

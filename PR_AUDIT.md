@@ -1,26 +1,26 @@
 # PR Audit
 
-Generated: `2026-08-12T05:02:51.190Z`  
+Generated: `2026-08-13T05:05:06.770Z`  
 Author: `ivasuy`  
-Merged PRs since: `2024-08-12`  
-Open PRs: `updated >= 2026-05-14`
+Merged PRs since: `2024-08-13`  
+Open PRs: `updated >= 2026-05-15`
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
 | Merged PRs | 7 |
-| Open PRs | 2 |
+| Open PRs | 0 |
 | Repositories touched | 3 |
 
 ## Top tech stack detected from PRs
 
-- TypeScript: 7
 - Go: 6
-- REST API: 5
+- TypeScript: 5
 - JavaScript: 4
-- OpenAI: 4
+- REST API: 4
 - Python: 3
+- OpenAI: 2
 - Docker: 1
 
 ## Merged PRs
@@ -37,7 +37,4 @@ Open PRs: `updated >= 2026-05-14`
 
 ## Open PRs
 
-| PR | Title | Date | Stack | Changes |
-|---|---|---|---|---|
-[paperclipai/paperclip#5406](https://github.com/paperclipai/paperclip/pull/5406) | docs: add npx registry workaround for onboard | 2026-05-14 | TypeScript, OpenAI | 2 files, +32/-0
-[paperclipai/paperclip#5404](https://github.com/paperclipai/paperclip/pull/5404) | fix(server): PATCH assignee wake via queueIssueAssignmentWakeup | 2026-05-14 | TypeScript, OpenAI, REST API | 4 files, +211/-28
+_No PRs found._
