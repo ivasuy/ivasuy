@@ -85,7 +85,7 @@ I’m a software developer who likes building things that actually get used. I e
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/merged-7-2ea44f?style=flat-square" alt="merged: 7" /> <img src="https://img.shields.io/badge/open-0-f0883e?style=flat-square" alt="open: 0" /> <img src="https://img.shields.io/badge/repos-3-0969da?style=flat-square" alt="repos: 3" /> <img src="https://img.shields.io/badge/synced-2026--09--01-24292f?style=flat-square" alt="synced: 2026-09-01" />
+<img src="https://img.shields.io/badge/merged-7-2ea44f?style=flat-square" alt="merged: 7" /> <img src="https://img.shields.io/badge/open-1-f0883e?style=flat-square" alt="open: 1" /> <img src="https://img.shields.io/badge/repos-4-0969da?style=flat-square" alt="repos: 4" /> <img src="https://img.shields.io/badge/synced-2026--09--02-24292f?style=flat-square" alt="synced: 2026-09-02" />
 
 </div>
 
@@ -103,5 +103,5 @@ I’m a software developer who likes building things that actually get used. I e
 
 **Open PRs**
 
-_No open PRs found._
+- [block/buzz#7165](https://github.com/block/buzz/pull/7165) docs: add Buzz community Discord link · `2026-09-01` · 1 files
 <!-- PR-AUDIT:END -->

@@ -1,27 +1,28 @@
 # PR Audit
 
-Generated: `2026-09-01T08:39:54.267Z`  
+Generated: `2026-09-02T07:55:41.686Z`  
 Author: `ivasuy`  
-Merged PRs since: `2024-09-01`  
-Open PRs: `updated >= 2026-06-03`
+Merged PRs since: `2024-09-02`  
+Open PRs: `updated >= 2026-06-04`
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
 | Merged PRs | 7 |
-| Open PRs | 0 |
-| Repositories touched | 3 |
+| Open PRs | 1 |
+| Repositories touched | 4 |
 
 ## Top tech stack detected from PRs
 
 - Go: 6
+- REST API: 5
 - TypeScript: 5
 - JavaScript: 4
-- REST API: 4
 - Python: 3
 - OpenAI: 2
 - Docker: 1
+- Rust: 1
 
 ## Merged PRs
 
@@ -37,4 +38,6 @@ Open PRs: `updated >= 2026-06-03`
 
 ## Open PRs
 
-_No PRs found._
+| PR | Title | Date | Stack | Changes |
+|---|---|---|---|---|
+[block/buzz#7165](https://github.com/block/buzz/pull/7165) | docs: add Buzz community Discord link | 2026-09-01 | Rust, REST API | 1 files, +7/-0

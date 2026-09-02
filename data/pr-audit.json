@@ -1,19 +1,23 @@
 {
-  "generatedAt": "2026-09-01T08:39:54.267Z",
+  "generatedAt": "2026-09-02T07:55:41.686Z",
   "user": "ivasuy",
   "ranges": {
-    "mergedSince": "2024-09-01",
-    "openSince": "2026-06-03",
+    "mergedSince": "2024-09-02",
+    "openSince": "2026-06-04",
     "openFilter": "updated"
   },
   "summary": {
     "mergedCount": 7,
-    "openCount": 0,
-    "reposTouched": 3,
+    "openCount": 1,
+    "reposTouched": 4,
     "topTech": [
       {
         "name": "Go",
         "count": 6
+      },
+      {
+        "name": "REST API",
+        "count": 5
       },
       {
         "name": "TypeScript",
@@ -21,10 +25,6 @@
       },
       {
         "name": "JavaScript",
-        "count": 4
-      },
-      {
-        "name": "REST API",
         "count": 4
       },
       {
@@ -37,6 +37,10 @@
       },
       {
         "name": "Docker",
+        "count": 1
+      },
+      {
+        "name": "Rust",
         "count": 1
       }
     ]
@@ -236,5 +240,32 @@
       ]
     }
   ],
-  "open": []
+  "open": [
+    {
+      "type": "open",
+      "repo": "block/buzz",
+      "number": 7165,
+      "title": "docs: add Buzz community Discord link",
+      "url": "https://github.com/block/buzz/pull/7165",
+      "state": "open",
+      "createdAt": "2026-09-01T10:13:47Z",
+      "updatedAt": "2026-09-01T13:37:20Z",
+      "closedAt": "0001-01-01T00:00:00Z",
+      "commentsCount": 2,
+      "mergedAt": "0001-01-01T00:00:00Z",
+      "changedFiles": 1,
+      "additions": 7,
+      "deletions": 0,
+      "reviewDecision": "REVIEW_REQUIRED",
+      "mergeStateStatus": "BLOCKED",
+      "isDraft": false,
+      "labels": [],
+      "language": "Rust",
+      "summary": "## Summary Add a concise Community section to the README with the current Buzz Discord invite. ### Related issue Fixes #5304 ### Testing - `git diff --check` - Verified the invite ",
+      "stack": [
+        "Rust",
+        "REST API"
+      ]
+    }
+  ]
 }
