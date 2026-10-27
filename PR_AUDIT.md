@@ -1,24 +1,24 @@
 # PR Audit
 
-Generated: `2026-10-26T08:56:38.100Z`  
+Generated: `2026-10-27T09:00:43.726Z`  
 Author: `ivasuy`  
-Merged PRs since: `2024-10-26`  
-Open PRs: `updated >= 2026-07-28`
+Merged PRs since: `2024-10-27`  
+Open PRs: `updated >= 2026-07-29`
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| Merged PRs | 7 |
+| Merged PRs | 8 |
 | Open PRs | 1 |
-| Repositories touched | 4 |
+| Repositories touched | 5 |
 
 ## Top tech stack detected from PRs
 
 - Go: 6
+- JavaScript: 5
 - REST API: 5
 - TypeScript: 5
-- JavaScript: 4
 - Python: 3
 - OpenAI: 2
 - Docker: 1
@@ -28,6 +28,7 @@ Open PRs: `updated >= 2026-07-28`
 
 | PR | Title | Date | Stack | Changes |
 |---|---|---|---|---|
+[aniasusual/crbn#4](https://github.com/aniasusual/crbn/pull/4) | feat: add pinned Harbor evaluation adapters | 2026-10-26 | JavaScript | 5 files, +218/-0
 [paperclipai/paperclip#5413](https://github.com/paperclipai/paperclip/pull/5413) | fix(server): adopt stale checkout run ownership | 2026-06-12 | TypeScript, OpenAI, REST API | 5 files, +600/-115
 [Agent-Field/SWE-AF#72](https://github.com/Agent-Field/SWE-AF/pull/72) | Add Codex CLI runtime support | 2026-05-11 | Go, JavaScript, Python, Docker, OpenAI | 30 files, +864/-59
 [Agent-Field/agentfield#549](https://github.com/Agent-Field/agentfield/pull/549) | Feat/UI llm health widget 322 | 2026-05-07 | Go, TypeScript, JavaScript, REST API | 11 files, +591/-12
