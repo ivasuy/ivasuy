@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-27T09:00:43.726Z",
+  "generatedAt": "2026-10-28T09:40:44.497Z",
   "user": "ivasuy",
   "ranges": {
-    "mergedSince": "2024-10-27",
-    "openSince": "2026-07-29",
+    "mergedSince": "2024-10-28",
+    "openSince": "2026-07-30",
     "openFilter": "updated"
   },
   "summary": {
-    "mergedCount": 8,
+    "mergedCount": 9,
     "openCount": 1,
     "reposTouched": 5,
     "topTech": [
@@ -17,7 +17,7 @@
       },
       {
         "name": "JavaScript",
-        "count": 5
+        "count": 6
       },
       {
         "name": "REST API",
@@ -32,12 +32,12 @@
         "count": 3
       },
       {
-        "name": "OpenAI",
+        "name": "Docker",
         "count": 2
       },
       {
-        "name": "Docker",
-        "count": 1
+        "name": "OpenAI",
+        "count": 2
       },
       {
         "name": "Rust",
@@ -46,6 +46,32 @@
     ]
   },
   "merged": [
+    {
+      "type": "merged",
+      "repo": "aniasusual/crbn",
+      "number": 5,
+      "title": "feat: align Harbor evaluation profile and add portable competitor adapter",
+      "url": "https://github.com/aniasusual/crbn/pull/5",
+      "state": "merged",
+      "createdAt": "2026-10-28T09:05:13Z",
+      "updatedAt": "2026-10-28T09:13:40Z",
+      "closedAt": "2026-10-28T09:13:40Z",
+      "commentsCount": 0,
+      "mergedAt": "2026-10-28T09:13:40Z",
+      "changedFiles": 6,
+      "additions": 187,
+      "deletions": 72,
+      "reviewDecision": null,
+      "mergeStateStatus": "UNKNOWN",
+      "isDraft": false,
+      "labels": [],
+      "language": "JavaScript",
+      "summary": "## Changes Align the native Harbor adapter with the measured medium-only October profile and score provider policy refusals through the task verifier. Preserve exact model selectio",
+      "stack": [
+        "JavaScript",
+        "Docker"
+      ]
+    },
     {
       "type": "merged",
       "repo": "aniasusual/crbn",

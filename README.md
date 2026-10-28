@@ -85,7 +85,7 @@ I’m a software developer who likes building things that actually get used. I e
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/merged-8-2ea44f?style=flat-square" alt="merged: 8" /> <img src="https://img.shields.io/badge/open-1-f0883e?style=flat-square" alt="open: 1" /> <img src="https://img.shields.io/badge/repos-5-0969da?style=flat-square" alt="repos: 5" /> <img src="https://img.shields.io/badge/synced-2026--10--27-24292f?style=flat-square" alt="synced: 2026-10-27" />
+<img src="https://img.shields.io/badge/merged-9-2ea44f?style=flat-square" alt="merged: 9" /> <img src="https://img.shields.io/badge/open-1-f0883e?style=flat-square" alt="open: 1" /> <img src="https://img.shields.io/badge/repos-5-0969da?style=flat-square" alt="repos: 5" /> <img src="https://img.shields.io/badge/synced-2026--10--28-24292f?style=flat-square" alt="synced: 2026-10-28" />
 
 </div>
 
@@ -93,13 +93,13 @@ I’m a software developer who likes building things that actually get used. I e
 
 **Recently Merged**
 
+- [aniasusual/crbn#5](https://github.com/aniasusual/crbn/pull/5) feat: align Harbor evaluation profile and add portable competitor adapter · `2026-10-28` · 6 files
 - [aniasusual/crbn#4](https://github.com/aniasusual/crbn/pull/4) feat: add pinned Harbor evaluation adapters · `2026-10-26` · 5 files
 - [paperclipai/paperclip#5413](https://github.com/paperclipai/paperclip/pull/5413) fix(server): adopt stale checkout run ownership · `2026-06-12` · 5 files
 - [Agent-Field/SWE-AF#72](https://github.com/Agent-Field/SWE-AF/pull/72) Add Codex CLI runtime support · `2026-05-11` · 30 files
 - [Agent-Field/agentfield#549](https://github.com/Agent-Field/agentfield/pull/549) Feat/UI llm health widget 322 · `2026-05-07` · 11 files
 - [Agent-Field/agentfield#548](https://github.com/Agent-Field/agentfield/pull/548) Feat/UI error category 325 · `2026-05-07` · 15 files
-- [Agent-Field/agentfield#547](https://github.com/Agent-Field/agentfield/pull/547) Feat/UI queue concurrency status 323 · `2026-05-07` · 10 files
-<sub>+2 more in <a href="./PR_AUDIT.md">PR_AUDIT.md</a></sub>
+<sub>+3 more in <a href="./PR_AUDIT.md">PR_AUDIT.md</a></sub>
 
 **Open PRs**
 
