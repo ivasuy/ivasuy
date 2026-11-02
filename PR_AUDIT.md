@@ -1,9 +1,9 @@
 # PR Audit
 
-Generated: `2026-11-01T10:28:23.275Z`  
+Generated: `2026-11-02T11:08:49.815Z`  
 Author: `ivasuy`  
-Merged PRs since: `2024-11-01`  
-Open PRs: `updated >= 2026-08-03`
+Merged PRs since: `2024-11-02`  
+Open PRs: `updated >= 2026-08-04`
 
 ## Summary
 
