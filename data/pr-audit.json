@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-11T10:59:01.847Z",
+  "generatedAt": "2026-11-12T11:12:28.966Z",
   "user": "ivasuy",
   "ranges": {
-    "mergedSince": "2024-11-11",
-    "openSince": "2026-08-13",
+    "mergedSince": "2024-11-12",
+    "openSince": "2026-08-14",
     "openFilter": "updated"
   },
   "summary": {
@@ -12,11 +12,11 @@
     "reposTouched": 5,
     "topTech": [
       {
-        "name": "Go",
-        "count": 6
+        "name": "TypeScript",
+        "count": 7
       },
       {
-        "name": "JavaScript",
+        "name": "Go",
         "count": 6
       },
       {
@@ -24,8 +24,8 @@
         "count": 5
       },
       {
-        "name": "TypeScript",
-        "count": 5
+        "name": "JavaScript",
+        "count": 4
       },
       {
         "name": "Python",
@@ -65,10 +65,10 @@
       "mergeStateStatus": "UNKNOWN",
       "isDraft": false,
       "labels": [],
-      "language": "JavaScript",
+      "language": "TypeScript",
       "summary": "## Changes Align the native Harbor adapter with the measured medium-only October profile and score provider policy refusals through the task verifier. Preserve exact model selectio",
       "stack": [
-        "JavaScript",
+        "TypeScript",
         "Docker"
       ]
     },
@@ -91,10 +91,10 @@
       "mergeStateStatus": "UNKNOWN",
       "isDraft": false,
       "labels": [],
-      "language": "JavaScript",
+      "language": "TypeScript",
       "summary": "## Summary - Add pinned Harbor evaluation adapters for the 80 Degrees and Codex benchmark targets. - Add a runner and setup instructions under `benchmarks/harbor`. Cherry-picked fr",
       "stack": [
-        "JavaScript"
+        "TypeScript"
       ]
     },
     {

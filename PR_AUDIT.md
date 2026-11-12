@@ -1,9 +1,9 @@
 # PR Audit
 
-Generated: `2026-11-11T10:59:01.847Z`  
+Generated: `2026-11-12T11:12:28.966Z`  
 Author: `ivasuy`  
-Merged PRs since: `2024-11-11`  
-Open PRs: `updated >= 2026-08-13`
+Merged PRs since: `2024-11-12`  
+Open PRs: `updated >= 2026-08-14`
 
 ## Summary
 
@@ -15,10 +15,10 @@ Open PRs: `updated >= 2026-08-13`
 
 ## Top tech stack detected from PRs
 
+- TypeScript: 7
 - Go: 6
-- JavaScript: 6
 - REST API: 5
-- TypeScript: 5
+- JavaScript: 4
 - Python: 3
 - Docker: 2
 - OpenAI: 2
@@ -28,8 +28,8 @@ Open PRs: `updated >= 2026-08-13`
 
 | PR | Title | Date | Stack | Changes |
 |---|---|---|---|---|
-[aniasusual/crbn#5](https://github.com/aniasusual/crbn/pull/5) | feat: align Harbor evaluation profile and add portable competitor adapter | 2026-10-28 | JavaScript, Docker | 6 files, +187/-72
-[aniasusual/crbn#4](https://github.com/aniasusual/crbn/pull/4) | feat: add pinned Harbor evaluation adapters | 2026-10-26 | JavaScript | 5 files, +218/-0
+[aniasusual/crbn#5](https://github.com/aniasusual/crbn/pull/5) | feat: align Harbor evaluation profile and add portable competitor adapter | 2026-10-28 | TypeScript, Docker | 6 files, +187/-72
+[aniasusual/crbn#4](https://github.com/aniasusual/crbn/pull/4) | feat: add pinned Harbor evaluation adapters | 2026-10-26 | TypeScript | 5 files, +218/-0
 [paperclipai/paperclip#5413](https://github.com/paperclipai/paperclip/pull/5413) | fix(server): adopt stale checkout run ownership | 2026-06-12 | TypeScript, OpenAI, REST API | 5 files, +600/-115
 [Agent-Field/SWE-AF#72](https://github.com/Agent-Field/SWE-AF/pull/72) | Add Codex CLI runtime support | 2026-05-11 | Go, JavaScript, Python, Docker, OpenAI | 30 files, +864/-59
 [Agent-Field/agentfield#549](https://github.com/Agent-Field/agentfield/pull/549) | Feat/UI llm health widget 322 | 2026-05-07 | Go, TypeScript, JavaScript, REST API | 11 files, +591/-12
