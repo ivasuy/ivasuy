@@ -7,20 +7,20 @@
     "openFilter": "updated"
   },
   "summary": {
-    "mergedCount": 9,
+    "mergedCount": 7,
     "openCount": 1,
-    "reposTouched": 5,
+    "reposTouched": 4,
     "topTech": [
-      {
-        "name": "TypeScript",
-        "count": 7
-      },
       {
         "name": "Go",
         "count": 6
       },
       {
         "name": "REST API",
+        "count": 5
+      },
+      {
+        "name": "TypeScript",
         "count": 5
       },
       {
@@ -32,12 +32,12 @@
         "count": 3
       },
       {
-        "name": "Docker",
+        "name": "OpenAI",
         "count": 2
       },
       {
-        "name": "OpenAI",
-        "count": 2
+        "name": "Docker",
+        "count": 1
       },
       {
         "name": "Rust",
@@ -46,57 +46,6 @@
     ]
   },
   "merged": [
-    {
-      "type": "merged",
-      "repo": "aniasusual/crbn",
-      "number": 5,
-      "title": "feat: align Harbor evaluation profile and add portable competitor adapter",
-      "url": "https://github.com/aniasusual/crbn/pull/5",
-      "state": "merged",
-      "createdAt": "2026-10-28T09:05:13Z",
-      "updatedAt": "2026-10-28T09:13:40Z",
-      "closedAt": "2026-10-28T09:13:40Z",
-      "commentsCount": 0,
-      "mergedAt": "2026-10-28T09:13:40Z",
-      "changedFiles": 6,
-      "additions": 187,
-      "deletions": 72,
-      "reviewDecision": null,
-      "mergeStateStatus": "UNKNOWN",
-      "isDraft": false,
-      "labels": [],
-      "language": "TypeScript",
-      "summary": "## Changes Align the native Harbor adapter with the measured medium-only October profile and score provider policy refusals through the task verifier. Preserve exact model selectio",
-      "stack": [
-        "TypeScript",
-        "Docker"
-      ]
-    },
-    {
-      "type": "merged",
-      "repo": "aniasusual/crbn",
-      "number": 4,
-      "title": "feat: add pinned Harbor evaluation adapters",
-      "url": "https://github.com/aniasusual/crbn/pull/4",
-      "state": "merged",
-      "createdAt": "2026-10-25T08:15:01Z",
-      "updatedAt": "2026-10-26T06:05:08Z",
-      "closedAt": "2026-10-26T06:05:08Z",
-      "commentsCount": 0,
-      "mergedAt": "2026-10-26T06:05:08Z",
-      "changedFiles": 5,
-      "additions": 218,
-      "deletions": 0,
-      "reviewDecision": null,
-      "mergeStateStatus": "UNKNOWN",
-      "isDraft": false,
-      "labels": [],
-      "language": "TypeScript",
-      "summary": "## Summary - Add pinned Harbor evaluation adapters for the 80 Degrees and Codex benchmark targets. - Add a runner and setup instructions under `benchmarks/harbor`. Cherry-picked fr",
-      "stack": [
-        "TypeScript"
-      ]
-    },
     {
       "type": "merged",
       "repo": "paperclipai/paperclip",

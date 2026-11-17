@@ -40,7 +40,7 @@ jobs:
       SHOW_MERGED: "6"
       SHOW_OPEN: "6"
       EXCLUDE_OWN: "true"
-      EXCLUDE_REPOS: "aniasusual/wingman.ai"
+      EXCLUDE_REPOS: "aniasusual/wingman.ai,aniasusual/crbn"
 
     steps:
       - name: Checkout profile repository
