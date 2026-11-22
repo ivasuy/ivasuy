@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-21T11:02:58.415Z",
+  "generatedAt": "2026-11-22T11:26:17.929Z",
   "user": "ivasuy",
   "ranges": {
-    "mergedSince": "2024-11-21",
-    "openSince": "2026-08-23",
+    "mergedSince": "2024-11-22",
+    "openSince": "2026-08-24",
     "openFilter": "updated"
   },
   "summary": {
@@ -257,7 +257,7 @@
       "additions": 7,
       "deletions": 0,
       "reviewDecision": "REVIEW_REQUIRED",
-      "mergeStateStatus": "UNKNOWN",
+      "mergeStateStatus": "BLOCKED",
       "isDraft": false,
       "labels": [],
       "language": "Rust",
